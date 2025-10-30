@@ -1,0 +1,76 @@
+{
+  "mappings": [
+    {
+      "source": "0021.Title",
+      "match": null
+    },
+    {
+      "source": "0021.Artist Last Name",
+      "match": null
+    },
+    {
+      "source": "0021.Artist First Name",
+      "match": null
+    },
+    {
+      "source": "0021.Location",
+      "match": null
+    },
+    {
+      "source": "0021.Medium",
+      "match": null
+    },
+    {
+      "source": "0021.Type",
+      "match": null
+    },
+    {
+      "source": "0021.Description",
+      "match": null
+    },
+    {
+      "source": "0021.Latitude",
+      "match": null
+    },
+    {
+      "source": "0021.Longitude",
+      "match": null
+    },
+    {
+      "source": "0021.Mapped Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0021.Title": {
+      "mapping": null
+    },
+    "0021.Artist Last Name": {
+      "mapping": null
+    },
+    "0021.Artist First Name": {
+      "mapping": null
+    },
+    "0021.Location": {
+      "mapping": null
+    },
+    "0021.Medium": {
+      "mapping": null
+    },
+    "0021.Type": {
+      "mapping": null
+    },
+    "0021.Description": {
+      "mapping": null
+    },
+    "0021.Latitude": {
+      "mapping": null
+    },
+    "0021.Longitude": {
+      "mapping": null
+    },
+    "0021.Mapped Location": {
+      "mapping": null
+    }
+  }
+}

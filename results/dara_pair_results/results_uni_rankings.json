@@ -1,0 +1,104 @@
+{
+  "mappings": [
+    {
+      "source": "cwurData.world_rank",
+      "match": null
+    },
+    {
+      "source": "cwurData.institution",
+      "match": "qs-world-rankings-2025.Institution Name"
+    },
+    {
+      "source": "cwurData.country",
+      "match": "qs-world-rankings-2025.Location Full"
+    },
+    {
+      "source": "cwurData.national_rank",
+      "match": null
+    },
+    {
+      "source": "cwurData.quality_of_education",
+      "match": null
+    },
+    {
+      "source": "cwurData.alumni_employment",
+      "match": null
+    },
+    {
+      "source": "cwurData.quality_of_faculty",
+      "match": null
+    },
+    {
+      "source": "cwurData.publications",
+      "match": null
+    },
+    {
+      "source": "cwurData.influence",
+      "match": null
+    },
+    {
+      "source": "cwurData.citations",
+      "match": null
+    },
+    {
+      "source": "cwurData.broad_impact",
+      "match": null
+    },
+    {
+      "source": "cwurData.patents",
+      "match": null
+    },
+    {
+      "source": "cwurData.score",
+      "match": null
+    },
+    {
+      "source": "cwurData.year",
+      "match": null
+    }
+  ],
+  "details": {
+    "cwurData.world_rank": {
+      "mapping": null
+    },
+    "cwurData.institution": {
+      "mapping": "qs-world-rankings-2025.Institution Name"
+    },
+    "cwurData.country": {
+      "mapping": "qs-world-rankings-2025.Location Full"
+    },
+    "cwurData.national_rank": {
+      "mapping": null
+    },
+    "cwurData.quality_of_education": {
+      "mapping": null
+    },
+    "cwurData.alumni_employment": {
+      "mapping": null
+    },
+    "cwurData.quality_of_faculty": {
+      "mapping": null
+    },
+    "cwurData.publications": {
+      "mapping": null
+    },
+    "cwurData.influence": {
+      "mapping": null
+    },
+    "cwurData.citations": {
+      "mapping": null
+    },
+    "cwurData.broad_impact": {
+      "mapping": null
+    },
+    "cwurData.patents": {
+      "mapping": null
+    },
+    "cwurData.score": {
+      "mapping": null
+    },
+    "cwurData.year": {
+      "mapping": null
+    }
+  }
+}

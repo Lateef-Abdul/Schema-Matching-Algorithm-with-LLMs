@@ -1,0 +1,195 @@
+{
+  "mappings": [
+    {
+      "source": "0089.Incident Number",
+      "match": "0068.DR_NO"
+    },
+    {
+      "source": "0089.Highest Offense Description",
+      "match": "0068.Crm Cd Desc"
+    },
+    {
+      "source": "0089.Highest Offense Code",
+      "match": "0068.Crm Cd"
+    },
+    {
+      "source": "0089.Family Violence",
+      "match": null
+    },
+    {
+      "source": "0089.Occurred Date Time",
+      "match": "0068.DATE OCC"
+    },
+    {
+      "source": "0089.Occurred Date",
+      "match": "0068.DATE OCC"
+    },
+    {
+      "source": "0089.Occurred Time",
+      "match": "0068.TIME OCC"
+    },
+    {
+      "source": "0089.Report Date Time",
+      "match": "0068.Date Rptd"
+    },
+    {
+      "source": "0089.Report Date",
+      "match": "0068.Date Rptd"
+    },
+    {
+      "source": "0089.Report Time",
+      "match": null
+    },
+    {
+      "source": "0089.Location Type",
+      "match": "0068.Premis Desc"
+    },
+    {
+      "source": "0089.Address",
+      "match": null
+    },
+    {
+      "source": "0089.Zip Code",
+      "match": null
+    },
+    {
+      "source": "0089.Council District",
+      "match": null
+    },
+    {
+      "source": "0089.APD Sector",
+      "match": "0068.AREA NAME"
+    },
+    {
+      "source": "0089.APD District",
+      "match": "0068.AREA "
+    },
+    {
+      "source": "0089.PRA",
+      "match": null
+    },
+    {
+      "source": "0089.Census Tract",
+      "match": null
+    },
+    {
+      "source": "0089.Clearance Status",
+      "match": "0068.Status"
+    },
+    {
+      "source": "0089.Clearance Date",
+      "match": null
+    },
+    {
+      "source": "0089.UCR Category",
+      "match": null
+    },
+    {
+      "source": "0089.Category Description",
+      "match": "0068.Crm Cd Desc"
+    },
+    {
+      "source": "0089.X-coordinate",
+      "match": null
+    },
+    {
+      "source": "0089.Y-coordinate",
+      "match": null
+    },
+    {
+      "source": "0089.Latitude",
+      "match": null
+    },
+    {
+      "source": "0089.Longitude",
+      "match": null
+    },
+    {
+      "source": "0089.Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0089.Incident Number": {
+      "mapping": "0068.DR_NO"
+    },
+    "0089.Highest Offense Description": {
+      "mapping": "0068.Crm Cd Desc"
+    },
+    "0089.Highest Offense Code": {
+      "mapping": "0068.Crm Cd"
+    },
+    "0089.Family Violence": {
+      "mapping": null
+    },
+    "0089.Occurred Date Time": {
+      "mapping": "0068.DATE OCC"
+    },
+    "0089.Occurred Date": {
+      "mapping": "0068.DATE OCC"
+    },
+    "0089.Occurred Time": {
+      "mapping": "0068.TIME OCC"
+    },
+    "0089.Report Date Time": {
+      "mapping": "0068.Date Rptd"
+    },
+    "0089.Report Date": {
+      "mapping": "0068.Date Rptd"
+    },
+    "0089.Report Time": {
+      "mapping": null
+    },
+    "0089.Location Type": {
+      "mapping": "0068.Premis Desc"
+    },
+    "0089.Address": {
+      "mapping": null
+    },
+    "0089.Zip Code": {
+      "mapping": null
+    },
+    "0089.Council District": {
+      "mapping": null
+    },
+    "0089.APD Sector": {
+      "mapping": "0068.AREA NAME"
+    },
+    "0089.APD District": {
+      "mapping": "0068.AREA "
+    },
+    "0089.PRA": {
+      "mapping": null
+    },
+    "0089.Census Tract": {
+      "mapping": null
+    },
+    "0089.Clearance Status": {
+      "mapping": "0068.Status"
+    },
+    "0089.Clearance Date": {
+      "mapping": null
+    },
+    "0089.UCR Category": {
+      "mapping": null
+    },
+    "0089.Category Description": {
+      "mapping": "0068.Crm Cd Desc"
+    },
+    "0089.X-coordinate": {
+      "mapping": null
+    },
+    "0089.Y-coordinate": {
+      "mapping": null
+    },
+    "0089.Latitude": {
+      "mapping": null
+    },
+    "0089.Longitude": {
+      "mapping": null
+    },
+    "0089.Location": {
+      "mapping": null
+    }
+  }
+}

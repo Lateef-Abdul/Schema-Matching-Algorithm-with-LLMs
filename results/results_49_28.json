@@ -1,0 +1,171 @@
+{
+  "mappings": [
+    {
+      "source": "0049_comma.FOLDERYEAR",
+      "match": null
+    },
+    {
+      "source": "0049_comma.LicenceRSN",
+      "match": null
+    },
+    {
+      "source": "0049_comma.LicenceNumber",
+      "match": "0028.Licence Number"
+    },
+    {
+      "source": "0049_comma.LicenceRevisionNumber",
+      "match": null
+    },
+    {
+      "source": "0049_comma.BusinessName",
+      "match": "0028.Trade Name"
+    },
+    {
+      "source": "0049_comma.BusinessTradeName",
+      "match": "0028.Trade Name"
+    },
+    {
+      "source": "0049_comma.Status",
+      "match": "0028.Licence Status"
+    },
+    {
+      "source": "0049_comma.IssuedDate",
+      "match": "0028.Issue Date"
+    },
+    {
+      "source": "0049_comma.ExpiredDate",
+      "match": "0028.Expiry Date"
+    },
+    {
+      "source": "0049_comma.BusinessType",
+      "match": "0028.Category"
+    },
+    {
+      "source": "0049_comma.BusinessSubType",
+      "match": "0028.Category"
+    },
+    {
+      "source": "0049_comma.Unit",
+      "match": null
+    },
+    {
+      "source": "0049_comma.UnitType",
+      "match": null
+    },
+    {
+      "source": "0049_comma.House",
+      "match": "0028.Address"
+    },
+    {
+      "source": "0049_comma.Street",
+      "match": "0028.Address"
+    },
+    {
+      "source": "0049_comma.City",
+      "match": null
+    },
+    {
+      "source": "0049_comma.Province",
+      "match": null
+    },
+    {
+      "source": "0049_comma.Country",
+      "match": null
+    },
+    {
+      "source": "0049_comma.PostalCode",
+      "match": null
+    },
+    {
+      "source": "0049_comma.LocalArea",
+      "match": "0028.Business Improvement Area"
+    },
+    {
+      "source": "0049_comma.NumberofEmployees",
+      "match": null
+    },
+    {
+      "source": "0049_comma.FeePaid",
+      "match": null
+    },
+    {
+      "source": "0049_comma.ExtractDate",
+      "match": "0028.Issue Date"
+    },
+    {
+      "source": "0049_comma.Geom",
+      "match": "0028.Location"
+    }
+  ],
+  "details": {
+    "0049_comma.FOLDERYEAR": {
+      "mapping": null
+    },
+    "0049_comma.LicenceRSN": {
+      "mapping": null
+    },
+    "0049_comma.LicenceNumber": {
+      "mapping": "0028.Licence Number"
+    },
+    "0049_comma.LicenceRevisionNumber": {
+      "mapping": null
+    },
+    "0049_comma.BusinessName": {
+      "mapping": "0028.Trade Name"
+    },
+    "0049_comma.BusinessTradeName": {
+      "mapping": "0028.Trade Name"
+    },
+    "0049_comma.Status": {
+      "mapping": "0028.Licence Status"
+    },
+    "0049_comma.IssuedDate": {
+      "mapping": "0028.Issue Date"
+    },
+    "0049_comma.ExpiredDate": {
+      "mapping": "0028.Expiry Date"
+    },
+    "0049_comma.BusinessType": {
+      "mapping": "0028.Category"
+    },
+    "0049_comma.BusinessSubType": {
+      "mapping": "0028.Category"
+    },
+    "0049_comma.Unit": {
+      "mapping": null
+    },
+    "0049_comma.UnitType": {
+      "mapping": null
+    },
+    "0049_comma.House": {
+      "mapping": "0028.Address"
+    },
+    "0049_comma.Street": {
+      "mapping": "0028.Address"
+    },
+    "0049_comma.City": {
+      "mapping": null
+    },
+    "0049_comma.Province": {
+      "mapping": null
+    },
+    "0049_comma.Country": {
+      "mapping": null
+    },
+    "0049_comma.PostalCode": {
+      "mapping": null
+    },
+    "0049_comma.LocalArea": {
+      "mapping": "0028.Business Improvement Area"
+    },
+    "0049_comma.FeePaid": {
+      "mapping": null
+    },
+    "0049_comma.ExtractDate": {
+      "mapping": "0028.Issue Date"
+    },
+    "0049_comma.Geom": {
+      "mapping": "0028.Location"
+    }
+  }
+}

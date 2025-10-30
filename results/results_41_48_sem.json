@@ -1,0 +1,119 @@
+{
+  "mappings": [
+    {
+      "source": "0041.Branch ID",
+      "match": null
+    },
+    {
+      "source": "0041.Branch",
+      "match": null
+    },
+    {
+      "source": "0041.Address",
+      "match": "0048.ADDRESS_FULL"
+    },
+    {
+      "source": "0041.Postal Code",
+      "match": "0048.POSTAL_CODE"
+    },
+    {
+      "source": "0041.Phone Number",
+      "match": null
+    },
+    {
+      "source": "0041.Free WiFi",
+      "match": null
+    },
+    {
+      "source": "0041.Monday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Monday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Tuesday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Tuesday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Wednesday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Wednesday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Thursday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Thursday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Friday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Friday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Saturday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Saturday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Sunday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Sunday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Latitude",
+      "match": null
+    },
+    {
+      "source": "0041.Longitude",
+      "match": null
+    },
+    {
+      "source": "0041.Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0041.Branch ID": {
+      "mapping": null
+    },
+    "0041.Branch": {
+      "mapping": null
+    },
+    "0041.Address": {
+      "mapping": "0048.ADDRESS_FULL"
+    },
+    "0041.Postal Code": {
+      "mapping": "0048.POSTAL_CODE"
+    },
+    "0041.Phone Number": {
+      "mapping": null
+    },
+    "0041.Free WiFi": {
+      "mapping": null
+    },
+    "0041.Monday Open": {
+      "mapping": null
+    }
+  }
+}

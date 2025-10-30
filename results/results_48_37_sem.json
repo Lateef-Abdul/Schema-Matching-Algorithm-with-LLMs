@@ -1,0 +1,76 @@
+{
+  "mappings": [
+    {
+      "source": "0048._id",
+      "match": null
+    },
+    {
+      "source": "0048.OBJECTID",
+      "match": null
+    },
+    {
+      "source": "0048.TCDSB_CODE",
+      "match": null
+    },
+    {
+      "source": "0048.SCH_NAME",
+      "match": "0037.SCHOOL_NAME"
+    },
+    {
+      "source": "0048.ADDRESS_FULL",
+      "match": "0037.ADDRESS"
+    },
+    {
+      "source": "0048.MUNICIPALITY",
+      "match": null
+    },
+    {
+      "source": "0048.POSTAL_CODE",
+      "match": "0037.POSTAL_CODE"
+    },
+    {
+      "source": "0048.TCDSB_LEVEL",
+      "match": "0037.GRADE_LEVEL"
+    },
+    {
+      "source": "0048.STATUS",
+      "match": null
+    },
+    {
+      "source": "0048.geometry",
+      "match": "0037.LOCATION"
+    }
+  ],
+  "details": {
+    "0048._id": {
+      "mapping": null
+    },
+    "0048.OBJECTID": {
+      "mapping": null
+    },
+    "0048.TCDSB_CODE": {
+      "mapping": null
+    },
+    "0048.SCH_NAME": {
+      "mapping": "0037.SCHOOL_NAME"
+    },
+    "0048.ADDRESS_FULL": {
+      "mapping": "0037.ADDRESS"
+    },
+    "0048.MUNICIPALITY": {
+      "mapping": null
+    },
+    "0048.POSTAL_CODE": {
+      "mapping": "0037.POSTAL_CODE"
+    },
+    "0048.TCDSB_LEVEL": {
+      "mapping": "0037.GRADE_LEVEL"
+    },
+    "0048.STATUS": {
+      "mapping": null
+    },
+    "0048.geometry": {
+      "mapping": "0037.LOCATION"
+    }
+  }
+}

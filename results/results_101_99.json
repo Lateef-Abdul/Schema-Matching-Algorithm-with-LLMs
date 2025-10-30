@@ -1,0 +1,140 @@
+{
+  "mappings": [
+    {
+      "source": "0101.School",
+      "match": "0099.SCHOOL NAME"
+    },
+    {
+      "source": "0101.School Number",
+      "match": null
+    },
+    {
+      "source": "0101.School Type",
+      "match": "0099.CATEGORY"
+    },
+    {
+      "source": "0101.Minimum Grade",
+      "match": null
+    },
+    {
+      "source": "0101.Maximum Grade",
+      "match": null
+    },
+    {
+      "source": "0101.Start Time",
+      "match": null
+    },
+    {
+      "source": "0101.End Time",
+      "match": null
+    },
+    {
+      "source": "0101.Telephone",
+      "match": null
+    },
+    {
+      "source": "0101.Fax",
+      "match": null
+    },
+    {
+      "source": "0101.Principal",
+      "match": null
+    },
+    {
+      "source": "0101.Assistant Principal 1",
+      "match": null
+    },
+    {
+      "source": "0101.Assistant Principal 2",
+      "match": null
+    },
+    {
+      "source": "0101.Assistant Principal 3",
+      "match": null
+    },
+    {
+      "source": "0101.Assistant Principal 4",
+      "match": null
+    },
+    {
+      "source": "0101.Associate Supt. / Board of Ed. Member 1",
+      "match": null
+    },
+    {
+      "source": "0101.Associate Supt. / Board of Ed. Member 2",
+      "match": null
+    },
+    {
+      "source": "0101.Address Number",
+      "match": null
+    },
+    {
+      "source": "0101.Street",
+      "match": null
+    },
+    {
+      "source": "0101.City",
+      "match": null
+    },
+    {
+      "source": "0101.State",
+      "match": null
+    },
+    {
+      "source": "0101.Zip Code",
+      "match": null
+    },
+    {
+      "source": "0101.Council DIstrict",
+      "match": null
+    },
+    {
+      "source": "0101.Police District",
+      "match": null
+    },
+    {
+      "source": "0101.Census Tract",
+      "match": null
+    },
+    {
+      "source": "0101.Census Block",
+      "match": null
+    },
+    {
+      "source": "0101.Census Block Group",
+      "match": null
+    },
+    {
+      "source": "0101.Latitude",
+      "match": null
+    },
+    {
+      "source": "0101.Longitude",
+      "match": null
+    },
+    {
+      "source": "0101.Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0101.School": {
+      "mapping": "0099.SCHOOL NAME"
+    },
+    "0101.School Number": {
+      "mapping": null
+    },
+    "0101.School Type": {
+      "mapping": "0099.CATEGORY"
+    },
+    "0101.Minimum Grade": {
+      "mapping": null
+    },
+    "0101.Maximum Grade": {
+      "mapping": null
+    },
+    "0101.Start Time": {
+      "mapping": null
+    }
+  }
+}

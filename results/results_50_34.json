@@ -1,0 +1,62 @@
+{
+  "mappings": [
+    {
+      "source": "0050.BUSINESSOPERATOR",
+      "match": null
+    },
+    {
+      "source": "0050.DetailURL",
+      "match": null
+    },
+    {
+      "source": "0050.StreetNumber",
+      "match": null
+    },
+    {
+      "source": "0050.Street",
+      "match": null
+    },
+    {
+      "source": "0050.TOTALOUTSTANDING",
+      "match": null
+    },
+    {
+      "source": "0050.TotalUnits",
+      "match": null
+    },
+    {
+      "source": "0050.Geom",
+      "match": null
+    },
+    {
+      "source": "0050.Geo Local Area",
+      "match": "0034.NEIGHBOURHOOD"
+    }
+  ],
+  "details": {
+    "0050.BUSINESSOPERATOR": {
+      "mapping": null
+    },
+    "0050.DetailURL": {
+      "mapping": null
+    },
+    "0050.StreetNumber": {
+      "mapping": null
+    },
+    "0050.Street": {
+      "mapping": null
+    },
+    "0050.TOTALOUTSTANDING": {
+      "mapping": null
+    },
+    "0050.TotalUnits": {
+      "mapping": null
+    },
+    "0050.Geom": {
+      "mapping": null
+    },
+    "0050.Geo Local Area": {
+      "mapping": "0034.NEIGHBOURHOOD"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "mappings": [
+    {
+      "source": "Airbnb Listings.index",
+      "match": null
+    },
+    {
+      "source": "Airbnb Listings.id",
+      "match": "spring23_final_train_with_price.id"
+    },
+    {
+      "source": "Airbnb Listings.name",
+      "match": "spring23_final_train_with_price.name"
+    },
+    {
+      "source": "Airbnb Listings.host_id",
+      "match": "spring23_final_train_with_price.host_id"
+    },
+    {
+      "source": "Airbnb Listings.host_name",
+      "match": "spring23_final_train_with_price.host_name"
+    },
+    {
+      "source": "Airbnb Listings.neighbourhood_group",
+      "match": null
+    },
+    {
+      "source": "Airbnb Listings.neighbourhood",
+      "match": "spring23_final_train_with_price.neighbourhood"
+    },
+    {
+      "source": "Airbnb Listings.latitude",
+      "match": "spring23_final_train_with_price.latitude"
+    },
+    {
+      "source": "Airbnb Listings.longitude",
+      "match": "spring23_final_train_with_price.longitude"
+    },
+    {
+      "source": "Airbnb Listings.room_type",
+      "match": "spring23_final_train_with_price.room_type"
+    },
+    {
+      "source": "Airbnb Listings.price",
+      "match": "spring23_final_train_with_price.price"
+    },
+    {
+      "source": "Airbnb Listings.minimum_nights",
+      "match": "spring23_final_train_with_price.minimum_nights"
+    },
+    {
+      "source": "Airbnb Listings.number_of_reviews",
+      "match": "spring23_final_train_with_price.number_of_reviews"
+    },
+    {
+      "source": "Airbnb Listings.last_review",
+      "match": "spring23_final_train_with_price.last_review"
+    },
+    {
+      "source": "Airbnb Listings.reviews_per_month",
+      "match": "spring23_final_train_with_price.reviews_per_month"
+    },
+    {
+      "source": "Airbnb Listings.calculated_host_listings_count",
+      "match": null
+    },
+    {
+      "source": "Airbnb Listings.availability_365",
+      "match": null
+    }
+  ],
+  "details": {
+    "Airbnb Listings.index": {
+      "mapping": null
+    },
+    "Airbnb Listings.id": {
+      "mapping": "spring23_final_train_with_price.id"
+    },
+    "Airbnb Listings.name": {
+      "mapping": "spring23_final_train_with_price.name"
+    },
+    "Airbnb Listings.host_id": {
+      "mapping": "spring23_final_train_with_price.host_id"
+    },
+    "Airbnb Listings.host_name": {
+      "mapping": "spring23_final_train_with_price.host_name"
+    },
+    "Airbnb Listings.neighbourhood_group": {
+      "mapping": null
+    },
+    "Airbnb Listings.neighbourhood": {
+      "mapping": "spring23_final_train_with_price.neighbourhood"
+    },
+    "Airbnb Listings.latitude": {
+      "mapping": "spring23_final_train_with_price.latitude"
+    },
+    "Airbnb Listings.longitude": {
+      "mapping": "spring23_final_train_with_price.longitude"
+    },
+    "Airbnb Listings.room_type": {
+      "mapping": "spring23_final_train_with_price.room_type"
+    },
+    "Airbnb Listings.price": {
+      "mapping": "spring23_final_train_with_price.price"
+    },
+    "Airbnb Listings.minimum_nights": {
+      "mapping": "spring23_final_train_with_price.minimum_nights"
+    },
+    "Airbnb Listings.number_of_reviews": {
+      "mapping": "spring23_final_train_with_price.number_of_reviews"
+    },
+    "Airbnb Listings.last_review": {
+      "mapping": "spring23_final_train_with_price.last_review"
+    },
+    "Airbnb Listings.reviews_per_month": {
+      "mapping": "spring23_final_train_with_price.reviews_per_month"
+    },
+    "Airbnb Listings.calculated_host_listings_count": {
+      "mapping": null
+    },
+    "Airbnb Listings.availability_365": {
+      "mapping": null
+    }
+  }
+}

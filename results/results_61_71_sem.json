@@ -1,0 +1,101 @@
+{
+  "mappings": [
+    {
+      "source": "0061.TYPE",
+      "match": null
+    },
+    {
+      "source": "0061.T_MF_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.T_MF_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.T_SA_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.T_SA_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.T_SU_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.T_SU_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.TIME_MISC",
+      "match": null
+    },
+    {
+      "source": "0061.R_MF_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.R_MF_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.R_SA_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.R_SA_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.R_SU_9A_6P",
+      "match": null
+    },
+    {
+      "source": "0061.R_SU_6P_10",
+      "match": null
+    },
+    {
+      "source": "0061.RATE_MISC",
+      "match": null
+    },
+    {
+      "source": "0061.CREDITCARD",
+      "match": null
+    },
+    {
+      "source": "0061.LOCATION",
+      "match": null
+    },
+    {
+      "source": "0061.INTERSECTN",
+      "match": null
+    },
+    {
+      "source": "0061.TIMEINEFFE",
+      "match": null
+    },
+    {
+      "source": "0061.RUSH_HR",
+      "match": null
+    },
+    {
+      "source": "0061.MAPID",
+      "match": null
+    },
+    {
+      "source": "0061.Geom",
+      "match": null
+    },
+    {
+      "source": "0061.Geo Local Area",
+      "match": null
+    }
+  ],
+  "details": {
+    "0061.TYPE": {
+      "mapping": null
+    }
+  }
+}

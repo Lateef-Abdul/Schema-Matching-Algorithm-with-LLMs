@@ -1,0 +1,69 @@
+{
+  "mappings": [
+    {
+      "source": "0038.Building Address",
+      "match": null
+    },
+    {
+      "source": "0038.Construction Completion Year",
+      "match": null
+    },
+    {
+      "source": "0038.Name of Historic Resource",
+      "match": null
+    },
+    {
+      "source": "0038.Neighbourhood",
+      "match": "0033.Neighbourhood"
+    },
+    {
+      "source": "0038.Warning Type 1",
+      "match": null
+    },
+    {
+      "source": "0038.Warning Type 2",
+      "match": null
+    },
+    {
+      "source": "0038.Latitude",
+      "match": "0033.Latitude"
+    },
+    {
+      "source": "0038.Longitude",
+      "match": "0033.Longitude"
+    },
+    {
+      "source": "0038.Location",
+      "match": "0033.Point Location"
+    }
+  ],
+  "details": {
+    "0038.Building Address": {
+      "mapping": null
+    },
+    "0038.Construction Completion Year": {
+      "mapping": null
+    },
+    "0038.Name of Historic Resource": {
+      "mapping": null
+    },
+    "0038.Neighbourhood": {
+      "mapping": "0033.Neighbourhood"
+    },
+    "0038.Warning Type 1": {
+      "mapping": null
+    },
+    "0038.Warning Type 2": {
+      "mapping": null
+    },
+    "0038.Latitude": {
+      "mapping": "0033.Latitude"
+    },
+    "0038.Longitude": {
+      "mapping": "0033.Longitude"
+    },
+    "0038.Location": {
+      "mapping": "0033.Point Location"
+    }
+  }
+}

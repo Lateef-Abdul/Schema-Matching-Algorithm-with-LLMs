@@ -1,0 +1,83 @@
+{
+  "mappings": [
+    {
+      "source": "0079.STATION ID",
+      "match": null
+    },
+    {
+      "source": "0079.TIME",
+      "match": null
+    },
+    {
+      "source": "0079.LAST UPDATED",
+      "match": null
+    },
+    {
+      "source": "0079.NAME",
+      "match": null
+    },
+    {
+      "source": "0079.BIKE STANDS",
+      "match": null
+    },
+    {
+      "source": "0079.AVAILABLE BIKE STANDS",
+      "match": null
+    },
+    {
+      "source": "0079.AVAILABLE BIKES",
+      "match": null
+    },
+    {
+      "source": "0079.STATUS",
+      "match": null
+    },
+    {
+      "source": "0079.ADDRESS",
+      "match": null
+    },
+    {
+      "source": "0079.LATITUDE",
+      "match": "0080.Latitude"
+    },
+    {
+      "source": "0079.LONGITUDE",
+      "match": "0080.Longitude"
+    }
+  ],
+  "details": {
+    "0079.STATION ID": {
+      "mapping": null
+    },
+    "0079.TIME": {
+      "mapping": null
+    },
+    "0079.LAST UPDATED": {
+      "mapping": null
+    },
+    "0079.NAME": {
+      "mapping": null
+    },
+    "0079.BIKE STANDS": {
+      "mapping": null
+    },
+    "0079.AVAILABLE BIKE STANDS": {
+      "mapping": null
+    },
+    "0079.AVAILABLE BIKES": {
+      "mapping": null
+    },
+    "0079.STATUS": {
+      "mapping": null
+    },
+    "0079.ADDRESS": {
+      "mapping": null
+    },
+    "0079.LATITUDE": {
+      "mapping": "0080.Latitude"
+    },
+    "0079.LONGITUDE": {
+      "mapping": "0080.Longitude"
+    }
+  }
+}

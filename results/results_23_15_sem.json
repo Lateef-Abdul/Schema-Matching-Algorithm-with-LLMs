@@ -1,0 +1,153 @@
+{
+  "mappings": [
+    {
+      "source": "0023.PermitNum",
+      "match": "0015.PermitNum"
+    },
+    {
+      "source": "0023.PermitClass",
+      "match": "0015.PermitClass"
+    },
+    {
+      "source": "0023.PermitClassMapped",
+      "match": "0015.PermitClassMapped"
+    },
+    {
+      "source": "0023.PermitType",
+      "match": null
+    },
+    {
+      "source": "0023.PermitTypeMapped",
+      "match": "0015.PermitTypeMapped"
+    },
+    {
+      "source": "0023.Description",
+      "match": "0015.Description"
+    },
+    {
+      "source": "0023.EstProjectCost",
+      "match": "0015.EstProjectCost"
+    },
+    {
+      "source": "0023.AppliedDate",
+      "match": "0015.AppliedDate"
+    },
+    {
+      "source": "0023.IssuedDate",
+      "match": "0015.IssuedDate"
+    },
+    {
+      "source": "0023.ExpiresDate",
+      "match": "0015.ExpiresDate"
+    },
+    {
+      "source": "0023.CompletedDate",
+      "match": "0015.CompletedDate"
+    },
+    {
+      "source": "0023.StatusCurrent",
+      "match": "0015.StatusCurrent"
+    },
+    {
+      "source": "0023.OriginalAddress1",
+      "match": "0015.OriginalAddress1"
+    },
+    {
+      "source": "0023.OriginalCity",
+      "match": "0015.OriginalCity"
+    },
+    {
+      "source": "0023.OriginalState",
+      "match": "0015.OriginalState"
+    },
+    {
+      "source": "0023.OriginalZip",
+      "match": "0015.OriginalZip"
+    },
+    {
+      "source": "0023.ContractorCompanyName",
+      "match": "0015.ContractorCompanyName"
+    },
+    {
+      "source": "0023.Link",
+      "match": "0015.Link"
+    },
+    {
+      "source": "0023.Latitude",
+      "match": "0015.Latitude"
+    },
+    {
+      "source": "0023.Longitude",
+      "match": "0015.Longitude"
+    },
+    {
+      "source": "0023.Location1",
+      "match": "0015.Location1"
+    }
+  ],
+  "details": {
+    "0023.PermitNum": {
+      "mapping": "0015.PermitNum"
+    },
+    "0023.PermitClass": {
+      "mapping": "0015.PermitClass"
+    },
+    "0023.PermitClassMapped": {
+      "mapping": "0015.PermitClassMapped"
+    },
+    "0023.PermitType": {
+      "mapping": null
+    },
+    "0023.PermitTypeMapped": {
+      "mapping": "0015.PermitTypeMapped"
+    },
+    "0023.Description": {
+      "mapping": "0015.Description"
+    },
+    "0023.EstProjectCost": {
+      "mapping": "0015.EstProjectCost"
+    },
+    "0023.AppliedDate": {
+      "mapping": "0015.AppliedDate"
+    },
+    "0023.IssuedDate": {
+      "mapping": "0015.IssuedDate"
+    },
+    "0023.ExpiresDate": {
+      "mapping": "0015.ExpiresDate"
+    },
+    "0023.CompletedDate": {
+      "mapping": "0015.CompletedDate"
+    },
+    "0023.StatusCurrent": {
+      "mapping": "0015.StatusCurrent"
+    },
+    "0023.OriginalAddress1": {
+      "mapping": "0015.OriginalAddress1"
+    },
+    "0023.OriginalCity": {
+      "mapping": "0015.OriginalCity"
+    },
+    "0023.OriginalState": {
+      "mapping": "0015.OriginalState"
+    },
+    "0023.OriginalZip": {
+      "mapping": "0015.OriginalZip"
+    },
+    "0023.ContractorCompanyName": {
+      "mapping": "0015.ContractorCompanyName"
+    },
+    "0023.Link": {
+      "mapping": "0015.Link"
+    },
+    "0023.Latitude": {
+      "mapping": "0015.Latitude"
+    },
+    "0023.Longitude": {
+      "mapping": "0015.Longitude"
+    },
+    "0023.Location1": {
+      "mapping": "0015.Location1"
+    }
+  }
+}

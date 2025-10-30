@@ -1,0 +1,77 @@
+{
+  "mappings": [
+    {
+      "source": "0025.Disruption ID",
+      "match": null
+    },
+    {
+      "source": "0025.Date Issued",
+      "match": null
+    },
+    {
+      "source": "0025.Start Date",
+      "match": null
+    },
+    {
+      "source": "0025.Finish Date",
+      "match": null
+    },
+    {
+      "source": "0025.Status",
+      "match": null
+    },
+    {
+      "source": "0025.Closure",
+      "match": null
+    },
+    {
+      "source": "0025.On Street",
+      "match": null
+    },
+    {
+      "source": "0025.From Street",
+      "match": null
+    },
+    {
+      "source": "0025.To Street",
+      "match": null
+    },
+    {
+      "source": "0025.Impact",
+      "match": null
+    },
+    {
+      "source": "0025.Duration",
+      "match": null
+    },
+    {
+      "source": "0025.Details",
+      "match": null
+    },
+    {
+      "source": "0025.Description",
+      "match": null
+    },
+    {
+      "source": "0025.Activity Type",
+      "match": null
+    },
+    {
+      "source": "0025.Traffic District",
+      "match": null
+    },
+    {
+      "source": "0025.Infrastructure",
+      "match": null
+    },
+    {
+      "source": "0025.point",
+      "match": null
+    }
+  ],
+  "details": {
+    "0025.Disruption ID": {
+      "mapping": null
+    }
+  }
+}

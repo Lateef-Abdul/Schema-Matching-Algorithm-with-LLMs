@@ -1,0 +1,476 @@
+MAPID,NAME,LOCATION,MAINTAINER,IN_OPERATION,PET_FRIENDLY,PHOTO_NAME,Geom,Geo Local Area
+DFPB0004,"Fountain location:
+Almond Park",S-side of playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.18474450987034, 49.26108572763105]}",Kitsilano
+DFPB0008,"Fountain location:
+Arbutus Village Park",S-side of playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.157976371445, 49.248784480708856]}",Arbutus-Ridge
+DFPB0011,"Fountain location:
+Beaconsfield Park",adjacent to field house,Parks,spring to fall,,Beaconsfield Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.05005566614936, 49.25529665790978]}",Renfrew-Collingwood
+DFPB0014,"Fountain location:
+Carnarvon Park",S-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.17249944309232, 49.25703164790549]}",Arbutus-Ridge
+DFPB0021,"Fountain location:
+Clinton Park - East side of wading pool",E-side of wading pool,Parks,spring to fall,,Clinton Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.05012162418116, 49.27080498248805]}",Hastings-Sunrise
+DFPB0023,"Fountain location:
+Coal Harbour Park",near playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12537005471899, 49.28997735565045]}",Downtown
+DFPB0033,"Fountain location:
+David Lam Park - South west of playgrounds","E area, near playground",Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12327408831909, 49.27249998987751]}",Downtown
+DFPB0036,"Fountain location:
+Douglas Park (community centre)",exterior of building,Parks,spring to fall,,Douglas Park - drinking fountain 2 - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12248713679699, 49.252041562131495]}",South Cambie
+DFPB0038,"Fountain location:
+Elm Park",N-side of field house,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.16338644585873, 49.2335891619661]}",Kerrisdale
+DFPB0039,"Fountain location:
+Emery Barnes Park - Dog off-leash area",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.12378107952713, 49.277097085980934]}",Downtown
+DFPB0046,"Fountain location:
+Fraser River Park - park entrance by Angus Dr",near park entrance by Angus Dr,Parks,spring to fall,,Fraser River Park - drinking fountain - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.14932242480502, 49.20723462029865]}",Kerrisdale
+DFPB0053,"Fountain location:
+George Park",southeast corner of park,Parks,spring to fall,,George Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.09358705827185, 49.212521750458855]}",Sunset
+DFPB0055,"Fountain location:
+Grandview Park - West of Stage",Close to the Stage,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.07079528098261, 49.27367804148393]}",Grandview-Woodland
+DFPB0058,"Fountain location:
+Grays Park",front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08497892775704, 49.24108234786047]}",Kensington-Cedar Cottage
+DFPB0063,"Fountain location:
+Hastings Community Park - South of wading pool",besides wading pool,Parks,spring to fall,,Hastings Community Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03820552198269, 49.280485189595346]}",Hastings-Sunrise
+DFPB0072,"Fountain location:
+Hillcrest Park - East side",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10695405521624, 49.24576803722393]}",Riley Park
+DFPB0076,"Fountain location:
+Kaslo Park",SE corner of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.04513661129735, 49.26405984253122]}",Hastings-Sunrise
+DFPB0078,"Fountain location:
+Kerrisdale Centennial Park",2nd N-side entrance,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15718540627705, 49.23343616142541]}",Kerrisdale
+DFPB0084,"Fountain location:
+Kitsilano Beach Park - North of parking lot",besides parking lot,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15172825900372, 49.276845069596696]}",Kitsilano
+DFPB0082,"Fountain location:
+Kitsilano Beach Park - washroom wall",opposite washrooms,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15380496982891, 49.27448261571296]}",Kitsilano
+DFPB0086,"Fountain location:
+Langara Golf Course - cambie pathway",cambie pathway,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.11632117402527, 49.22318016335154]}",Oakridge
+DFPB0085,"Fountain location:
+Langara Golf Course - servive yard",servive yard,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.11170640059784, 49.21827204955769]}",Marpole
+DFPB0091,"Fountain location:
+Maclean Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.08942685427833, 49.27894833743796]}",Strathcona
+DFPB0092,"Fountain location:
+Major Matthews Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10699401283071, 49.26168106933267]}",Mount Pleasant
+DFPB0094,"Fountain location:
+Maple Grove Park - East of pool",E-side of pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15968744948694, 49.22328494934488]}",Kerrisdale
+DFPB0097,"Fountain location:
+McCleery Golf Course - 5th tee",5th tee,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.17088052677056, 49.22048268726047]}",Kerrisdale
+DFPB0101,"Fountain location:
+Melbourne Park",front of tennis courts,Parks,spring to fall,,Melbourne Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.02909158487584, 49.2365292742264]}",Renfrew-Collingwood
+DFPB0102,"Fountain location:
+Memorial South Park - West of Softball Diamond",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.08475728792786, 49.231628076232425]}",Sunset
+DFPB0104,"Fountain location:
+Memorial West Park",S of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.18728157172303, 49.24346335953531]}",Dunbar-Southlands
+DFPB0109,"Fountain location:
+Mount Pleasant Park",S-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.10643102129615, 49.25697067120588]}",Mount Pleasant
+DFPB0114,"Fountain location:
+New Brighton Park - South west of playground",SW of playground,Parks,spring to fall,,New Brighton - drinking fountain 1 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03867549952085, 49.28953737894174]}",Hastings-Sunrise
+DFPB0112,"Fountain location:
+New Brighton Park - West of tennis courts",W-side of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.03551547838973, 49.289696384000045]}",Hastings-Sunrise
+DFPB0190,"Fountain location:
+Park Site On South East False Creek",NE side of the park,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10941362001645, 49.27234240595487]}",Mount Pleasant
+DFPB0123,"Fountain location:
+Queen Elizabeth Park - Pitch and Putt Course",Pitch and Putt Course,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.11152710106677, 49.23927230037656]}",Riley Park
+DFPB0126,"Fountain location:
+Quilchena Park",W-side of fieldhouse,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1488133244043, 49.24472539986782]}",Arbutus-Ridge
+DFPB0127,"Fountain location:
+Renfrew Community Park",adjacent to wading pool,Parks,spring to fall,,Renfrew Park - drinking fountain - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.04207062382282, 49.25221559661864]}",Renfrew-Collingwood
+DFPB0128,"Fountain location:
+Riverfront Park - East of washrooms",E-side of washrooms,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05180181298957, 49.20585962877704]}",Killarney
+DFPB0133,"Fountain location:
+Ross Park",in front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08241897664004, 49.21691584630587]}",Sunset
+DFPB0135,"Fountain location:
+Rupert Park",E-side of playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.03306351417534, 49.27122599793046]}",Hastings-Sunrise
+DFPB0189,"Fountain location:
+Seawall - Creekside",Seawall - in front of Creekside Community Recreation Centre,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10573882205857, 49.27218289136859]}",Mount Pleasant
+DFPB0191,"Fountain location:
+Shannon Mews Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.14147665855549, 49.21970273952661]}",Kerrisdale
+DFPB0138,"Fountain location:
+Slocan Greenway",12th and slocan,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0497356630516, 49.25835999543246]}",Renfrew-Collingwood
+DFPB0139,"Fountain location:
+Slocan Park",near playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.04835768589251, 49.24439943119382]}",Renfrew-Collingwood
+DFPB0140,"Fountain location:
+Spanish Banks Beach Park",on north wall of washrooms,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.2223817077116, 49.27759005971061]}",West Point Grey
+DFPB0162,"Fountain location:
+Stanley Park - Admin building",Park Board Office,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0142,"Fountain location:
+Stanley Park - Lumbermen's Arch",Lumbermen's Arch,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.1306800546251, 49.30310662903523]}",
+DFPB0186,"Fountain location:
+Stanley Park - North east of Rose and Perennial Ga",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.13414455639086, 49.29913054667917]}",
+DFPB0149,"Fountain location:
+Stanley Park - Putting Green",Pitch and Putt Course,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.14647218147267, 49.293113413609824]}",
+DFPB0151,"Fountain location:
+Stanley Park - Second Beach",Second Beach,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.15001256396323, 49.294985445746754]}",
+DFPB0152,"Fountain location:
+Stanley Park - Second Beach Pool",Second Beach pool deck,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15104120435711, 49.295573663121964]}",
+DFPB0144,"Fountain location:
+Stanley Park - South west of playground",Rose Garden playground,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0150,"Fountain location:
+Stanley Park - West of Shore to Shore sculpture",Totem poles,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.1206750891925, 49.29905793154208]}",
+DFPB0165,"Fountain location:
+Sunrise Park",N-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.03565354298085, 49.26699890812438]}",Hastings-Sunrise
+DFPB0066,"Fountain location:
+Sunset Beach",on building wall,Parks,spring to fall,,English Bay Park - drinking fountain - 2005.jpg,"{""type"": ""Point"", ""coordinates"": [-123.1380051652894, 49.27900212016302]}",West End
+DFPB0175,"Fountain location:
+Vandusen Botanical Garden",near reflecting pond,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1294242143457, 49.23950659846841]}",Shaughnessy
+DFPB0181,"Fountain location:
+West End minipark - JERVIS ST @ BURNABY ST",north end,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.13603714371125, 49.28209318599128]}",West End
+DFPB0182,"Fountain location:
+West Point Grey Park - lawn bowling court",In lawn bowling court,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.20514683290192, 49.266959448015996]}",West Point Grey
+DFPB0184,"Fountain location:
+Winona Park",near playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1130441730933, 49.21594381468852]}",Marpole
+DFENG0500,"Bottle Filling Station location: 
+Charleson Park Pumping Station",North side of sewage pumping station 900 Charleson,Engineering,Year Round,N,CharlesonParkPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.125914, 49.2663411]}",Fairview
+DFENG0501,"Bottle Filling Station location: 
+Grandview Hwy Pumping Station",,Engineering,Year Round,N,GrandviewHwyPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.041381, 49.257924]}",Renfrew-Collingwood
+DFENG0011,"Fountain location:
+1650 W 7th","Midblock, outside of 1650 W 7th",Engineering,May-October,Y,1650 w 7th 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.142081, 49.265329]}",Fairview
+DFENG0013,"Fountain location:
+37th & Ontario",Northwest corner of 37th & Ontario,Engineering,May-October,N,Ontario&37th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.105647, 49.237446]}",Riley Park
+DFENG0003,"Fountain location:
+4th & Arbutus",Northeast corner of 4th & Arbutus,Engineering,May-October,N,P3140883.JPG,"{""type"": ""Point"", ""coordinates"": [-123.152706, 49.26822777]}",Kitsilano
+DFENG0016,"Fountain location:
+Broadway & Victoria",Southeast corner of Broadway & Victoria,Engineering,May-October,N,Broadway Victoria 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.065619, 49.262066]}",Kensington-Cedar Cottage
+DFENG0005,"Fountain location:
+Cardero & Burnaby",In the mini park at Cardero & Burnaby,Engineering,May-October,N,P2080275.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13955439, 49.28451988]}",West End
+DFENG0021,"Fountain location:
+Commercial & 3rd",Northeast corner of Commercial & 3rd,Engineering,May-October,Y,Commercial&3rd.jpg,"{""type"": ""Point"", ""coordinates"": [-123.06939067, 49.2678194]}",Grandview-Woodland
+DFENG0026,"Fountain location:
+Comox & Chilco",In mini park at Comox & Chilco,Engineering,May-October,N,Comox&Chilco.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14264686, 49.29067407]}",West End
+DFENG0027,"Fountain location:
+Comox & Denman",Northwest corner of Comox & Denman,Engineering,Year Round,N,Comox&Denman.jpg,"{""type"": ""Point"", ""coordinates"": [-123.13969, 49.2887857]}",West End
+DFENG0033,"Fountain location:
+Denman & Nelson",Southwest corner of Denman & Nelson,Engineering,May-October,N,P3011141.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13854854, 49.28922483]}",West End
+DFENG0017,"Fountain location:
+Elgin & 37th",Northwest corner of Elgin & 37th,Engineering,May-October,N,Elgin&37th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.084037, 49.2365274]}",Kensington-Cedar Cottage
+DFENG0028,"Fountain location:
+Gilford & Comox",Northwest corner of Gilford & Comox,Engineering,May-October,N,Comox&Gilford.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14128655, 49.28977703]}",West End
+DFENG0019,"Fountain location:
+Granville & Robson",Northwest corner of Granville & Robson,Engineering,Year Round,N,Granville Robson 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.119937, 49.281542]}",Downtown
+DFENG0023,"Fountain location:
+Main & 11th",Southeast corner of Main & 11th,Engineering,Year Round,N,Main&11th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.100784, 49.2610594]}",Mount Pleasant
+DFENG0008,"Fountain location:
+Nicola & Beach",Northeast corner of Nicola & Beach,Engineering,May-October,N,Nicola Beach 1.JPG,"{""type"": ""Point"", ""coordinates"": [-123.140508, 49.282385]}",West End
+DFENG0048,Fountain location: 375 W 59th Avenue,Northeast corner of Alberta St and W 59th Ave,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.11323, 49.217003]}",Marpole
+DFENG0047,Fountain location: 4963 Cambie St,Northwest corner of Cambie and W 35th,Engineering,Year Round,N,Cambie&W35th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.117008, 49.238962]}",South Cambie
+DFENG0031,Fountain location: Cambie & 10th,Northeast corner of Cambie & 10th,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.114544, 49.262294]}",Mount Pleasant
+DFENG0044,Fountain location: Cambie & 29th Avenue,Southwest corner of Cambie & 29th Avenue,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.116339, 49.245083]}",South Cambie
+DFENG0037,Fountain location: Oak & 46th,Northeast corner of Oak & 46th,Engineering,Year Round,N,Oak&46th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.127987, 49.229344]}",Oakridge
+DFENG0041,Fountain location: River District Crossing & E Kent Ave North,Northeast corner of River District Crossing & E Kent Ave North,Engineering,May-October,N,,"{""type"": ""Point"", ""coordinates"": [-123.031131, 49.205331]}",Killarney
+DFENG0038,Fountain location:Nelson & Howe,Southeast corner of Nelson & Howe,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.123513, 49.279672]}",Downtown
+DFENG0036,Fountain location:Pt.Grey & MacDonald,Northwest corner of Pt. Grey & MacDonald,Engineering,Year Round,N,Pt. Grey&MacDonald.jpg,"{""type"": ""Point"", ""coordinates"": [-123.167863, 49.271674]}",Kitsilano
+DFENG0035,Fountian Location: Fraser & Broadway,Northwest corner of Fraser & Broadway,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.089225, 49.262628]}",Mount Pleasant
+DFPB0002,"Fountain location:
+Adanac Park",SW side of Field house,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0241254441794, 49.27596410057139]}",Hastings-Sunrise
+DFPB0005,"Fountain location:
+Andy Livingstone Park - North of basketball court",by amphitheatre steps near bas,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.10617896100499, 49.278917130264055]}",Downtown
+DFPB0009,"Fountain location:
+Art Phillips Park (Discovery Square)",NW plaza,Parks,spring to fall,,Discovery Square - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12092403672209, 49.28602527394457]}",Downtown
+DFPB0010,"Fountain location:
+Balaclava Park",W of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.17532748987207, 49.24571941099743]}",Dunbar-Southlands
+DFPB0013,"Fountain location:
+Burrard View Park",N-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05046757249366, 49.290521395563395]}",Hastings-Sunrise
+DFPB0192,"Fountain location:
+Cedar Cottage Park",Near Sport courts,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.07677246160404, 49.260897510427014]}",Kensington-Cedar Cottage
+DFPB0016,"Fountain location:
+Chaldecott Park",W-side of spray park,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.19167358377561, 49.24969048752799]}",Dunbar-Southlands
+DFPB0019,"Fountain location:
+China Creek South Park",S-side of skate park,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0790458346744, 49.26174978155622]}",Mount Pleasant
+DFPB0020,"Fountain location:
+Clark Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.07309180917856, 49.256851681418766]}",Kensington-Cedar Cottage
+DFPB0022,"Fountain location:
+Clinton Park - North side of ball diamond",N-side of B-ball diamond,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05167063296136, 49.27138699405095]}",Hastings-Sunrise
+DFPB0024,"Fountain location:
+Collingwood Park",in front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.03636462915456, 49.2370512820887]}",Renfrew-Collingwood
+DFPB0027,"Fountain location:
+Connaught Park - East side of fieldhouse",near fieldhouse,Parks,year-round,,Connaught Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.15932134359271, 49.26297477699926]}",Kitsilano
+DFPB0028,"Fountain location:
+Coopers' Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.11304201854614, 49.27391462297168]}",Downtown
+DFPB0029,"Fountain location:
+Coopers' Park - underneath bridge, near basket","underneath bridge, near basket",Parks,spring to fall,,Coopers Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.11463403132457, 49.2729040014691]}",Downtown
+DFPB0031,"Fountain location:
+Creekside Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10299407627441, 49.27436956341148]}",Downtown
+DFPB0037,"Fountain location:
+Ebisu Park",near playground,Parks,spring to fall,,Ebisu Park - drinking fountain - 2008.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13283432618276, 49.20551059072722]}",Marpole
+DFPB0041,"Fountain location:
+English Bay Beach Park - Davie st entrance",Davie st entrance,Parks,spring to fall,,English Bay Park - drinking fountain - 2005.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14255817215084, 49.28752529728865]}",West End
+DFPB0044,"Fountain location:
+Falaise Park",in front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.02996353965862, 49.25494765836279]}",Renfrew-Collingwood
+DFPB0049,"Fountain location:
+Fraserview Golf Course - 6th tee",6th tee,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.04567976712876, 49.20831528164534]}",Killarney
+DFPB0048,"Fountain location:
+Fraserview Golf Course - clubhouse building",clubhouse building,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05151778887551, 49.214039497855346]}",Killarney
+DFPB0051,"Fountain location:
+Garden Park",N-side of field house,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05841268395888, 49.268494930486206]}",Grandview-Woodland
+DFPB0052,"Fountain location:
+Gaston Park",near basketball court,Parks,spring to fall,,Gaston Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03139559954171, 49.236603275262475]}",Renfrew-Collingwood
+DFPB0054,"Fountain location:
+George Wainborn Park",NE corner near seawall,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12977813047853, 49.271907974746064]}",Downtown
+DFPB0061,"Fountain location:
+Harbour Green Park - foot of Jervis Mews",foot of Jervis Mews,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12316503926135, 49.29064536983438]}",Downtown
+DFPB0064,"Fountain location:
+Hastings Community Park - SE of tennis courts",besides path leading to spray,Parks,spring to fall,,Hastings Community Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.04060853748953, 49.280475188141146]}",Hastings-Sunrise
+DFPB0065,"Fountain location:
+Hastings Park - Italian gardens",near skate park,Parks,spring to fall,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.04294354474824, 49.28325024558667]}",Hastings-Sunrise
+DFPB0069,"Fountain location:
+Hastings Park -Plateau Sport Parks / Empire Fields",East of playgrounds,Parks,,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03448505726166, 49.28299828401808]}",Hastings-Sunrise
+DFPB0070,"Fountain location:
+Hastings Park -Plateau Sport Parks / Empire Fields",empire field - soccer fields,Parks,,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.034264, 49.282563]}",Hastings-Sunrise
+DFPB0074,"Fountain location:
+John Hendry (Trout Lake) Park",nearby beach,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.06197074568475, 49.25403462695769]}",Kensington-Cedar Cottage
+DFPB0077,"Fountain location:
+Kensington Park",between baseball diamond and parking lots,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.07427486768654, 49.238243292967304]}",Kensington-Cedar Cottage
+DFPB0081,"Fountain location:
+Kingcrest Park",E-side of washroom,Parks,spring to fall,,Kingcrest Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.0745638442458, 49.247430484145035]}",Kensington-Cedar Cottage
+DFPB0087,"Fountain location:
+Langara Golf Course - East of tennis courts",56th and Ontario,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.10632012065498, 49.21951059074085]}",Oakridge
+DFPB0096,"Fountain location:
+McBride Park",S of playground,Parks,spring to fall,,McBride Park - drinking fountain - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.18011946249462, 49.26802887520497]}",Kitsilano
+DFPB0098,"Fountain location:
+McCleery Golf Course - clubhouse building",clubhouse building,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.16784850616567, 49.221060000503236]}",Kerrisdale
+DFPB0099,"Fountain location:
+McCleery Golf Course - driving range",driving range,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.16961351863812, 49.22069559153487]}",Kerrisdale
+DFPB0103,"Fountain location:
+Memorial South Park - West of wading pool",W-side of wading pool,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.08690730640086, 49.231445967892725]}",Sunset
+DFPB0105,"Fountain location:
+Moberly Park - West of tennis courts",in front of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08458399526312, 49.21493280370756]}",Sunset
+DFPB0108,"Fountain location:
+Mosaic Creek Park",near children's play area,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0742017723588, 49.27329802539632]}",Grandview-Woodland
+DFPB0113,"Fountain location:
+New Brighton Park - South of pool",S-side of pool,Parks,spring to fall,,New Brighton - drinking fountain 2 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03665048696202, 49.28937437677413]}",Hastings-Sunrise
+DFPB0119,"Fountain location:
+Oppenheimer Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.09404187251305, 49.28300722094974]}",Strathcona
+DFPB0125,"Fountain location:
+Queen Elizabeth Park - At Conservatory",At Conservatory,Parks,spring to fall,,Queen Elizabeth Park (Ontario Greenway) - drinking fountain 2 - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.11352810609957, 49.2423803644047]}",Riley Park
+DFPB0130,"Fountain location:
+Robson Park",N-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09189692645658, 49.25789769612121]}",Mount Pleasant
+DFPB0136,"Fountain location:
+Rupert Park - East of fieldhouse",E-side of Field house,Parks,spring to fall,,Rupert Park - drinking fountain 1 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03061150164847, 49.27025397819598]}",Hastings-Sunrise
+DFPB0155,"Fountain location:
+Stanley Park - Brockton Oval Fieldhouse",brockton oval,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12613848786123, 49.29975598431441]}",
+DFPB0158,"Fountain location:
+Stanley Park - Brockton Point Viewpoint",Brockton point - lighthouse,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0145,"Fountain location:
+Stanley Park - Ceperley Washrooms",Ceperley washrooms,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.14870677517186, 49.293751732669826]}",
+DFPB0160,"Fountain location:
+Stanley Park - Lawn Bowling Club",Lawn Bowling,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0154,"Fountain location:
+Stanley Park - Legends Of The Moon Washroom",Legends Of The Moon - Washroom,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.12128509247478, 49.299634364378655]}",
+DFPB0147,"Fountain location:
+Stanley Park - Prospect Point Washrooms",prospect point washrooms,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.14271559277007, 49.312494515728226]}",
+DFPB0157,"Fountain location:
+Stanley Park - Stanley Park Pavilion",pavillion outside washrooms,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.13379001924541, 49.29960619520646]}",
+DFPB0146,"Fountain location:
+Stanley Park - West of Restaurant",W - side of Fish House,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1469851874114, 49.292345397302135]}",
+DFPB0148,"Fountain location:
+Stanley Park - West side of Stanley Park Train",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.13451408205303, 49.301668197766205]}",
+DFPB0163,"Fountain location:
+Strathcona Park - North west of basketball court",besides basketball court,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08556206292319, 49.27601569903952]}",Strathcona
+DFPB0167,"Fountain location:
+Sunset Park",front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09646723658864, 49.22295426740642]}",Sunset
+DFPB0169,"Fountain location:
+Tea Swamp Park",NE corner of park,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09857497062325, 49.25746168419921]}",Mount Pleasant
+DFPB0171,"Fountain location:
+Tisdall Park",near North baseball diamond,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.11825117290374, 49.22847607289638]}",Oakridge
+DFPB0187,"Fountain location:
+Vancouver Technical HS",NE of the sport field,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.05011946685549, 49.26062486270534]}",Renfrew-Collingwood
+DFPB0174,"Fountain location:
+Vandusen Botanical Garden - upper gardens",upper gardens,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12992421918467, 49.23872068169798]}",Shaughnessy
+DFPB0177,"Fountain location:
+Victoria Park",adjacent to children's play area,Parks,spring to fall,,Victoria Park - drinking fountain - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.06674701318637, 49.27171896210611]}",Grandview-Woodland
+DFPB0178,"Fountain location:
+Victory Square",south corner of park,Parks,spring to fall,,Victory Square - drinking fountain - 2008.JPG,"{""type"": ""Point"", ""coordinates"": [-123.11005097846787, 49.2819511927667]}",Downtown
+DFPB0180,"Fountain location:
+West End minipark",Bute & Haro,Parks,spring to fall,,West End Minipark @ Bute & Haro - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.1280300840173, 49.285296255875174]}",West End
+DFPB0185,"Fountain location:
+Woodland Park",in front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.07340875242025, 49.278548135565664]}",Grandview-Woodland
+DFENG0502,"Bottle Filling Station location: 
+Granville Island Pumping Station",North side of sewage pumping station on seawall east of the granville island entrance,Engineering,Year Round,N,GranvilleIslandPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.136177, 49.269566]}",Fairview
+DFENG0002,"Fountain location:
+39th & Nanaimo",Southwest corner of 39th & Nanaimo,Engineering,May-October,N,Nanaimo&39th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.058912, 49.234752]}",Kensington-Cedar Cottage
+DFENG0014,"Fountain location:
+7th & Yukon",Southwest corner of 7th & Yukon,Engineering,May-October,N,Yukon&7th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.112967, 49.2646599]}",Mount Pleasant
+DFENG0024,"Fountain location:
+Burrard & Davie",Northwest corner of Burrard & Davie,Engineering,Year Round,N,Davie&Burrard.jpg,"{""type"": ""Point"", ""coordinates"": [-123.12923210062, 49.2792475453812]}",West End
+DFENG0025,"Fountain location:
+Comox & Cardero",Northeast corner of Comox & Cardero,Engineering,Year Round,N,Comox&Cardero.jpg,"{""type"": ""Point"", ""coordinates"": [-123.136516, 49.2867384]}",West End
+DFENG0006,"Fountain location:
+Gilford & Nelson",Northwest corner of Gilford & Nelson,Engineering,May-October,N,P3011198.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14022516, 49.29049866]}",West End
+DFENG0029,"Fountain location:
+Granville & 59th",Northeast corner of Granville & 59th,Engineering,Year Round,N,Granville&59th.jpg,"{""type"": ""Point"", ""coordinates"": [-123.139586, 49.2173117]}",Marpole
+DFENG0034,"Fountain location:
+Hastings & Kamloops",Northeast corner of Hastings & Kamloops,Engineering,May-October,N,Hastings Kamploops 1.JPG,"{""type"": ""Point"", ""coordinates"": [-123.054448, 49.280998]}",Hastings-Sunrise
+DFENG0007,"Fountain location:
+Nelson & Broughton",In mini park at Nelson & Broughton,Engineering,May-October,N,P2130403.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13333675, 49.28571023]}",West End
+DFENG0010,"Fountain location:
+Robson & Chilco",In mini park at Robson & Chilco,Engineering,May-October,N,P2020133.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13827002, 49.29345716]}",West End
+DFENG0046,Fountain location: 733 W 14th Avenue,North side of 14th Avenue,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.121414, 49.258738]}",Fairview
+DFENG0039,Fountain location: Davie & Bute (Jim Deva Plaza),1200 Davie Street,Engineering,Year Round,Y,,"{""type"": ""Point"", ""coordinates"": [-123.133952, 49.281882]}",West End
+DFENG0043,Fountain location: Ormidale St & Vanness Avenue,Southeast corner of Ormidale St & Vanness Avenue,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.024717, 49.234702]}",Renfrew-Collingwood
+DFPB0001,"Fountain location:
+Aberdeen Park",plaza,Parks,spring to fall,,Aberdeen Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.02723857691211, 49.235052244781656]}",Renfrew-Collingwood
+DFPB0003,"Fountain location:
+Alexandra Park",west plaza gateway,Parks,spring to fall,,Alexandra Park - drinking fountain - 2003.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14237717569814, 49.28566025871612]}",West End
+DFPB0006,"Fountain location:
+Andy Livingstone Park - South of soccer fields",north side of fieldhouse,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.10355994686793, 49.27805711332229]}",Downtown
+DFPB0007,"Fountain location:
+Arbutus Greenway Park",S-side of playground,Parks,spring to fall,,Arbutus Greenway Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.15530331979778, 49.26223376304301]}",Kitsilano
+DFPB0012,"Fountain location:
+Bobolink Park",in front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0560918132228, 49.215625829513684]}",Victoria-Fraserview
+DFPB0132,"Fountain location:
+Brewers Park",S-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.06621079065098, 49.24755549015022]}",Kensington-Cedar Cottage
+DFPB0030,"Fountain location:
+CRAB Park at Portside",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10180591766984, 49.28475995490833]}",Downtown
+DFPB0017,"Fountain location:
+Charleson Park",N of school off of seawall,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12588611678844, 49.26811789687622]}",Fairview
+DFPB0018,"Fountain location:
+China Creek North Park",S central side along jogging c,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08311885257991, 49.2644778372994]}",Mount Pleasant
+DFPB0025,"Fountain location:
+Columbia Park",in front of wading pool,Parks,spring to fall,,Columbia Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.11299013036627, 49.231930146654]}",Oakridge
+DFPB0026,"Fountain location:
+Connaught Park - North of playground",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.16141535959855, 49.26187335311721]}",Kitsilano
+DFPB0032,"Fountain location:
+David Lam Park - South west of basketball courts",near playground and tennis court,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12570510564845, 49.2717379729765]}",Downtown
+DFPB0034,"Fountain location:
+Devonian Harbour Park",near Stanley Park entrance,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.13598610995344, 49.295091459181194]}",
+DFPB0035,"Fountain location:
+Douglas Park - Right side of wading pool",in front of wading pool,Parks,spring to fall,,Douglas Park - drinking fountain 1 - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12230213245175, 49.25319458591402]}",South Cambie
+DFPB0040,"Fountain location:
+Emery Barnes Park - South west of playground",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.12426708261285, 49.27664197562022]}",Downtown
+DFPB0042,"Fountain location:
+English Bay Beach Park - West of bath-house",opposite entrance to bathhouse,Parks,year-round,,English Bay Park - drinking fountain - 2005.jpg,"{""type"": ""Point"", ""coordinates"": [-123.14302017755426, 49.28613326803492]}",West End
+DFPB0043,"Fountain location:
+English Bay Beach Park - concessions",concessions,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.13792016443693, 49.27900682012942]}",West End
+DFPB0045,"Fountain location:
+Fraser River Park - South west",,Parks,spring to fall,,Fraser River Park - drinking fountain - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.15079343698349, 49.206524604715234]}",Kerrisdale
+DFPB0047,"Fountain location:
+Fraserview Golf Course - West of kerr st.",West of kerr st.,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.04226773752653, 49.211400947247654]}",Killarney
+DFPB0050,"Fountain location:
+Fraserview Golf Course - driving range",driving range,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0513797921426, 49.21249686599673]}",Killarney
+DFPB0056,"Fountain location:
+Grandview Park - South of playground",By the Playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.06985194061305, 49.27384806653218]}",Grandview-Woodland
+DFPB0057,"Fountain location:
+Granville Loop Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.13774119438631, 49.2672333741722]}",Fairview
+DFPB0059,"Fountain location:
+Guelph Park",w-side of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09555993281812, 49.26432582925835]}",Mount Pleasant
+DFPB0062,"Fountain location:
+Harbour Green Park - In front of washrooms",near spray pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.12167903062401, 49.29010735949297]}",Downtown
+DFPB0060,"Fountain location:
+Harbour Green Park - Viewpoint","west, by seawall",Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1232550375787, 49.291334384434094]}",Downtown
+DFPB0067,"Fountain location:
+Hastings Park -Plateau Sport Parks / Empire Fields",north of empire field,Parks,spring to fall,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03337505588075, 49.28381447906172]}",Hastings-Sunrise
+DFPB0066,"Fountain location:
+Hastings Park -Plateau Sport Parks / Empire Fields",field house at empire field,Parks,spring to fall,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03424848993296, 49.282669236667665]}",Hastings-Sunrise
+DFPB0068,"Fountain location:
+Hastings Park -Plateau Sport Parks / Empire Fields",East of basketball courts,Parks,,,Hastings Park (Empire Field) - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.034264, 49.282563]}",Hastings-Sunrise
+DFPB0071,"Fountain location:
+Hillcrest Park - North of playground",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.106969, 49.2456626]}",Riley Park
+DFPB0073,"Fountain location:
+Jericho Beach Park",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.19172152670885, 49.27201435405524]}",West Point Grey
+DFPB0075,"Fountain location:
+Jonathan Rogers Park",E-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.10749900955489, 49.26426982320041]}",Mount Pleasant
+DFPB0080,"Fountain location:
+Killarney Park - E 45th Ave. @ Killarney St.",north plaza,Parks,spring to fall,,Killarney Park - drinking fountain 2 - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.04532770779115, 49.22930011794244]}",Killarney
+DFPB0079,"Fountain location:
+Killarney Park - East of wading pool",in front of wading pool,Parks,spring to fall,,Killarney Park - drinking fountain 1 - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.04186669078801, 49.227164074533114]}",Killarney
+DFPB0083,"Fountain location:
+Kitsilano Beach Park - South of playground",besides playground,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.153186687643, 49.27478748031104]}",Kitsilano
+DFPB0088,"Fountain location:
+Langara Golf Course - clubhouse building",clubhouse building,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.11252814833458, 49.22389007931097]}",Oakridge
+DFPB0089,"Fountain location:
+Locarno Beach Park",near concessions,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.20714961781954, 49.27507501211316]}",West Point Grey
+DFPB0090,"Fountain location:
+MacDonald Park",near NW corner of tennis court,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09849604345541, 49.230075113614106]}",Sunset
+DFPB0093,"Fountain location:
+Maple Grove Park - South of baseball diamond",S-side of baseball diamond,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.16081645575363, 49.22361195604753]}",Kerrisdale
+DFPB0095,"Fountain location:
+Marpole Park",west entrance to playground,Parks,spring to fall,,Marpole Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.13894336301057, 49.20572859250458]}",Marpole
+DFPB0100,"Fountain location:
+McCleery Golf Course - servive yard",servive yard,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.17072538868275, 49.22073774832735]}",Kerrisdale
+DFPB0106,"Fountain location:
+Moberly Park - Arts & Cultural Centre",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.08718501007823, 49.21544341401607]}",Sunset
+DFPB0107,"Fountain location:
+Morton Park",,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.14224916999193, 49.287535297882734]}",West End
+DFPB0110,"Fountain location:
+Nanaimo Park",in front of wading pool,Parks,spring to fall,,Nanaimo Park - drinking fountain - 2005.JPG,"{""type"": ""Point"", ""coordinates"": [-123.05690478396131, 49.228382094384926]}",Victoria-Fraserview
+DFPB0111,"Fountain location:
+Nelson Park",middle of park,Parks,spring to fall,,Nelson Park - drinking fountain - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12996610354612, 49.28294420590987]}",West End
+DFPB0115,"Fountain location:
+Norquay Park",front of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05081271824574, 49.23827830254492]}",Renfrew-Collingwood
+DFPB0117,"Fountain location:
+Oak Park - East of fieldhouse",East side of fieldhouse,Parks,spring to fall,,Oak Park - drinking fountain 3 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12814026541413, 49.21698683039526]}",Marpole
+DFPB0118,"Fountain location:
+Oak Park - East of spray park",In spray park,Parks,spring to fall,,Oak Park - drinking fountain 1 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12737226202022, 49.216689824099134]}",Marpole
+DFPB0116,"Fountain location:
+Oak Park - North west of field hockey",Near parking lot,Parks,spring to fall,,Oak Park - drinking fountain 2 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12910727287776, 49.21671182405714]}",Marpole
+DFPB0120,"Fountain location:
+Pandora Park",N-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.0573907228131, 49.28241944355695]}",Grandview-Woodland
+DFPB0121,"Fountain location:
+Park Site On South East False Creek - Hinge",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.11019100783243, 49.27115666646443]}",Mount Pleasant
+DFPB0122,"Fountain location:
+Pioneer Place (Pigeon Park)",,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10448994330177, 49.281769090820944]}",Downtown
+DFPB0124,"Fountain location:
+Queen Elizabeth Park - 37th and Ontario",37th and Ontario,Parks,spring to fall,,Queen Elizabeth Park - drinking fountain 1 - 2006.JPG,"{""type"": ""Point"", ""coordinates"": [-123.10560606822328, 49.23752526603095]}",Riley Park
+DFPB0188,"Fountain location:
+Riley Park",West side of the park,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.10479228037154, 49.2426880999357]}",Riley Park
+DFPB0129,"Fountain location:
+Riverfront Park - West of tennis courts",w-side of tennis courts,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.05096580744122, 49.205843628445386]}",Killarney
+DFPB0131,"Fountain location:
+Ross Park",near shelter,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08261997732612, 49.21705184897251]}",Sunset
+DFPB0134,"Fountain location:
+Rupert Park - South of golf entrance booth",S-side of golf entrance booth,Parks,spring to fall,,Rupert Park - drinking fountain 2 - 2007.JPG,"{""type"": ""Point"", ""coordinates"": [-123.03062049301315, 49.27317703975057]}",Hastings-Sunrise
+DFPB0137,"Fountain location:
+Seaforth Peace Park",S end plaza,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.14619023821574, 49.27109595186446]}",Kitsilano
+DFPB0159,"Fountain location:
+Stanley Park - Brockton Cricket Pavilion",Brockton Clubhouse,Parks,,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0161,"Fountain location:
+Stanley Park - Dog Off-leash area",Beside Dog off-leash area,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.148332, 49.310653]}",
+DFPB0141,"Fountain location:
+Stanley Park - Prospect Point Lookout",Prospect Point viewing,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.1424377015813, 49.313489270665016]}",
+DFPB0156,"Fountain location:
+Stanley Park - Prospect Point Picnic Site",Prospect Point picnic area,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.14818844616497, 49.31072472615588]}",
+DFPB0143,"Fountain location:
+Stanley Park - Tennis Courts",near Tennis Courts & Fish House,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.14599767463297, 49.292326017929625]}",
+DFPB0153,"Fountain location:
+Stanley Park - Third Beach Seawall",Third beach seawall,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.15632021825063, 49.30326262273198]}",
+DFPB0164,"Fountain location:
+Strathcona Park - besides baseball diamond",besides baseball diamond,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.08667384655139, 49.27493305453203]}",Strathcona
+DFPB0168,"Fountain location:
+Sutcliffe Park",S-side of false creek communit,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.13401616561772, 49.26922691690112]}",Fairview
+DFPB0170,"Fountain location:
+Tecumseh Park",middle of park,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.07017586403101, 49.2297128163117]}",Victoria-Fraserview
+DFPB0172,"Fountain location:
+Trafalgar Park",E-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.16382240251893, 49.25137853323129]}",Arbutus-Ridge
+DFPB0173,"Fountain location:
+Trillium Park",on west side of building,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.09310688779313, 49.27506635498275]}",Strathcona
+DFPB0176,"Fountain location:
+Vanier Park (Burrard Civic Marina)",,Parks,year-round,,,"{""type"": ""Point"", ""coordinates"": [-123.13975418570803, 49.27521804024948]}",Kitsilano
+DFPB0179,"Fountain location:
+W.C. Shelly Park",,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.07309279284456, 49.26315381297962]}",Grandview-Woodland
+DFPB0183,"Fountain location:
+West Point Grey Park - North of wading pool",N-side of wading pool,Parks,spring to fall,,,"{""type"": ""Point"", ""coordinates"": [-123.20524762794798, 49.266126826024426]}",West Point Grey
+DFENG0503,"Bottle Filling Station location: 
+Granville St Pumping Station",North side of sewage pumping station under Granville Bridge on bike route,Engineering,Year Round,N,GranvilleStPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.131579, 49.2733345]}",Downtown
+DFENG0504,"Bottle Filling Station location: 
+Kitsilano Pumping Station",North side of sewage pumping station on w/s/ 1300 Arbutus,Engineering,Year Round,N,KitsilanoPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.1527806, 49.2737142]}",Kitsilano
+DFENG0505,"Bottle Filling Station location: 
+Thornton Park Pumping Station",West side of sewage pumping station on w/s/ 1200 Station St,Engineering,Year Round,N,ThorntonParkPumpingStation.jpg,"{""type"": ""Point"", ""coordinates"": [-123.098886, 49.2730368]}",Strathcona
+DFENG0001,"Fountain location:
+28th & Main",Northeast corner of 28th & Main,Engineering,May-October,N,Main 28th 1.JPG,"{""type"": ""Point"", ""coordinates"": [-123.10102, 49.245762]}",Riley Park
+DFENG0012,"Fountain location:
+37th & Oak",Southeast corner of 37th & Oak,Engineering,May-October,N,Oak 37th 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.127384, 49.237587]}",South Cambie
+DFENG0018,"Fountain location:
+37th & Prince Edward",Northwest corner of 37th & Prince Edward,Engineering,May-October,Y,Prince Ed 37th 4.JPG,"{""type"": ""Point"", ""coordinates"": [-123.09728295, 49.2371952]}",Riley Park
+DFENG0004,"Fountain location:
+56th & Ontario",Northwest corner of 56th & Ontario,Engineering,May-October,Y,Ontario 56th 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.106415, 49.219505]}",Oakridge
+DFENG0022,"Fountain location:
+Ashburn & Elliot",Northwest corner of Ashburn & Elliot,Engineering,May-October,N,Ashburn&Elliot.jpg,"{""type"": ""Point"", ""coordinates"": [-123.055044, 49.2187548]}",Victoria-Fraserview
+DFENG0015,"Fountain location:
+Broadway & Ontario",Southwest corner of Broadway & Ontario,Engineering,May-October,N,Broadway ON 2.JPG,"{""type"": ""Point"", ""coordinates"": [-123.105026, 49.262875]}",Mount Pleasant
+DFENG0032,"Fountain location:
+Broadway & Stephens",Northwest corner of Broadway & Stephens,Engineering,May-October,N,P3140921.JPG,"{""type"": ""Point"", ""coordinates"": [-123.1666474, 49.26423514]}",Kitsilano
+DFENG0020,"Fountain location:
+Hastings & Gore",Northeast corner of Hastings & Gore,Engineering,Year Round,N,Hastings&Gore.jpg,"{""type"": ""Point"", ""coordinates"": [-123.097231, 49.281386]}",Strathcona
+DFENG0009,"Fountain location:
+Robson & Burrard",Northeast corner of Robson & Burrard,Engineering,May-October,Y,P2190667.JPG,"{""type"": ""Point"", ""coordinates"": [-123.12229054, 49.28306599]}",Downtown
+DFENG0030,"Fountain location:
+Union & Hawks",In mini park at Union & Hawks,Engineering,Year Round,N,Union&Hawks.jpg,"{""type"": ""Point"", ""coordinates"": [-123.087389, 49.2775724]}",Strathcona
+DFENG0045,Fountain location: 2001 W 10th Avenue,North side of 10th Avenue,Engineering,May-October,N,,"{""type"": ""Point"", ""coordinates"": [-123.152238, 49.262911]}",Kitsilano
+DFENG0040,Fountain location: Point Grey Road & Waterloo,1600 Waterloo St,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.179475, 49.271936]}",Kitsilano
+DFENG0042,Fountain location: W 63rd Avenue & Yukon Street,Southeast corner of W 63rd Avenue & Yukon Street,Engineering,Year Round,N,,"{""type"": ""Point"", ""coordinates"": [-123.114629, 49.213173]}",Marpole

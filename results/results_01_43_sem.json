@@ -1,0 +1,62 @@
+{
+  "mappings": [
+    {
+      "source": "0001.TVM Identifier",
+      "match": null
+    },
+    {
+      "source": "0001.Latitude",
+      "match": null
+    },
+    {
+      "source": "0001.Longitude",
+      "match": null
+    },
+    {
+      "source": "0001.Coordinates",
+      "match": "0043.geometry"
+    },
+    {
+      "source": "0001.Address",
+      "match": "0043.address"
+    },
+    {
+      "source": "0001.Pay by Credit card",
+      "match": null
+    },
+    {
+      "source": "0001.Pay by Cash",
+      "match": null
+    },
+    {
+      "source": "0001.Location",
+      "match": "0043.geometry"
+    }
+  ],
+  "details": {
+    "0001.TVM Identifier": {
+      "mapping": null
+    },
+    "0001.Latitude": {
+      "mapping": null
+    },
+    "0001.Longitude": {
+      "mapping": null
+    },
+    "0001.Coordinates": {
+      "mapping": "0043.geometry"
+    },
+    "0001.Address": {
+      "mapping": "0043.address"
+    },
+    "0001.Pay by Credit card": {
+      "mapping": null
+    },
+    "0001.Pay by Cash": {
+      "mapping": null
+    },
+    "0001.Location": {
+      "mapping": "0043.geometry"
+    }
+  }
+}

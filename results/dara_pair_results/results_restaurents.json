@@ -1,0 +1,125 @@
+{
+  "mappings": [
+    {
+      "source": "times-square-food-beverage-locations.Company Name",
+      "match": "newyork_dohmh1000.DBA"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Subindustry",
+      "match": null
+    },
+    {
+      "source": "times-square-food-beverage-locations.Sub Subindustry",
+      "match": "newyork_dohmh1000.CUISINE DESCRIPTION"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Address",
+      "match": null
+    },
+    {
+      "source": "times-square-food-beverage-locations.Phone",
+      "match": "newyork_dohmh1000.PHONE"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Website",
+      "match": null
+    },
+    {
+      "source": "times-square-food-beverage-locations.Borough",
+      "match": null
+    },
+    {
+      "source": "times-square-food-beverage-locations.Postcode",
+      "match": "newyork_dohmh1000.ZIPCODE"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Latitude",
+      "match": "newyork_dohmh1000.Latitude"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Longitude",
+      "match": "newyork_dohmh1000.Longitude"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Community Board",
+      "match": "newyork_dohmh1000.Community Board"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Community Council ",
+      "match": "newyork_dohmh1000.Council District"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Census Tract",
+      "match": "newyork_dohmh1000.Census Tract"
+    },
+    {
+      "source": "times-square-food-beverage-locations.BIN",
+      "match": "newyork_dohmh1000.BIN"
+    },
+    {
+      "source": "times-square-food-beverage-locations.BBL",
+      "match": "newyork_dohmh1000.BBL"
+    },
+    {
+      "source": "times-square-food-beverage-locations.NTA",
+      "match": "newyork_dohmh1000.NTA"
+    },
+    {
+      "source": "times-square-food-beverage-locations.Location 1",
+      "match": null
+    }
+  ],
+  "details": {
+    "times-square-food-beverage-locations.Company Name": {
+      "mapping": "newyork_dohmh1000.DBA"
+    },
+    "times-square-food-beverage-locations.Subindustry": {
+      "mapping": null
+    },
+    "times-square-food-beverage-locations.Sub Subindustry": {
+      "mapping": "newyork_dohmh1000.CUISINE DESCRIPTION"
+    },
+    "times-square-food-beverage-locations.Address": {
+      "mapping": null
+    },
+    "times-square-food-beverage-locations.Phone": {
+      "mapping": "newyork_dohmh1000.PHONE"
+    },
+    "times-square-food-beverage-locations.Website": {
+      "mapping": null
+    },
+    "times-square-food-beverage-locations.Borough": {
+      "mapping": null
+    },
+    "times-square-food-beverage-locations.Postcode": {
+      "mapping": "newyork_dohmh1000.ZIPCODE"
+    },
+    "times-square-food-beverage-locations.Latitude": {
+      "mapping": "newyork_dohmh1000.Latitude"
+    },
+    "times-square-food-beverage-locations.Longitude": {
+      "mapping": "newyork_dohmh1000.Longitude"
+    },
+    "times-square-food-beverage-locations.Community Board": {
+      "mapping": "newyork_dohmh1000.Community Board"
+    },
+    "times-square-food-beverage-locations.Community Council ": {
+      "mapping": "newyork_dohmh1000.Council District"
+    },
+    "times-square-food-beverage-locations.Census Tract": {
+      "mapping": "newyork_dohmh1000.Census Tract"
+    },
+    "times-square-food-beverage-locations.BIN": {
+      "mapping": "newyork_dohmh1000.BIN"
+    },
+    "times-square-food-beverage-locations.BBL": {
+      "mapping": "newyork_dohmh1000.BBL"
+    },
+    "times-square-food-beverage-locations.NTA": {
+      "mapping": "newyork_dohmh1000.NTA"
+    },
+    "times-square-food-beverage-locations.Location 1": {
+      "mapping": null
+    }
+  }
+}

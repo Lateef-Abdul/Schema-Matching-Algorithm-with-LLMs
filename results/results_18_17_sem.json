@@ -1,0 +1,181 @@
+{
+  "mappings": [
+    {
+      "source": "0018.FRB #",
+      "match": null
+    },
+    {
+      "source": "0018.Incident Number",
+      "match": null
+    },
+    {
+      "source": "0018.Date / Time",
+      "match": null
+    },
+    {
+      "source": "0018.Blurred Address",
+      "match": "0017.100 Block Address"
+    },
+    {
+      "source": "0018.Longitude",
+      "match": "0017.Longitude"
+    },
+    {
+      "source": "0018.Latitude",
+      "match": "0017.Latitude"
+    },
+    {
+      "source": "0018.City",
+      "match": null
+    },
+    {
+      "source": "0018.State",
+      "match": null
+    },
+    {
+      "source": "0018.Rank",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Gender",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Race",
+      "match": null
+    },
+    {
+      "source": "0018.Years of SPD Service",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Injured",
+      "match": null
+    },
+    {
+      "source": "0018.Number of Rounds",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Gender",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Race",
+      "match": null
+    },
+    {
+      "source": "0018.Subject DOB",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Age",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Weapon",
+      "match": null
+    },
+    {
+      "source": "0018.Type of Weapon",
+      "match": null
+    },
+    {
+      "source": "0018.Fatal",
+      "match": null
+    },
+    {
+      "source": "0018.On-duty",
+      "match": null
+    },
+    {
+      "source": "0018.Disposition",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Disciplined?",
+      "match": null
+    },
+    {
+      "source": "0018.Summary",
+      "match": null
+    }
+  ],
+  "details": {
+    "0018.FRB #": {
+      "mapping": null
+    },
+    "0018.Incident Number": {
+      "mapping": null
+    },
+    "0018.Date / Time": {
+      "mapping": null
+    },
+    "0018.Blurred Address": {
+      "mapping": "0017.100 Block Address"
+    },
+    "0018.Longitude": {
+      "mapping": "0017.Longitude"
+    },
+    "0018.Latitude": {
+      "mapping": "0017.Latitude"
+    },
+    "0018.City": {
+      "mapping": null
+    },
+    "0018.State": {
+      "mapping": null
+    },
+    "0018.Rank": {
+      "mapping": null
+    },
+    "0018.Officer Gender": {
+      "mapping": null
+    },
+    "0018.Officer Race": {
+      "mapping": null
+    },
+    "0018.Years of SPD Service": {
+      "mapping": null
+    },
+    "0018.Officer Injured": {
+      "mapping": null
+    },
+    "0018.Number of Rounds": {
+      "mapping": null
+    },
+    "0018.Subject Gender": {
+      "mapping": null
+    },
+    "0018.Subject Race": {
+      "mapping": null
+    },
+    "0018.Subject DOB": {
+      "mapping": null
+    },
+    "0018.Subject Age": {
+      "mapping": null
+    },
+    "0018.Subject Weapon": {
+      "mapping": null
+    },
+    "0018.Type of Weapon": {
+      "mapping": null
+    },
+    "0018.Fatal": {
+      "mapping": null
+    },
+    "0018.On-duty": {
+      "mapping": null
+    },
+    "0018.Disposition": {
+      "mapping": null
+    },
+    "0018.Officer Disciplined?": {
+      "mapping": null
+    },
+    "0018.Summary": {
+      "mapping": null
+    }
+  }
+}

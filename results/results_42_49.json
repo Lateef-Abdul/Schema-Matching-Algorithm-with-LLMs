@@ -1,0 +1,104 @@
+{
+  "mappings": [
+    {
+      "source": "0042._id",
+      "match": "0049_comma.LicenceRSN"
+    },
+    {
+      "source": "0042.Permit_No",
+      "match": "0049_comma.LicenceNumber"
+    },
+    {
+      "source": "0042.Permit_Sticker_No",
+      "match": null
+    },
+    {
+      "source": "0042.Permit_Class",
+      "match": null
+    },
+    {
+      "source": "0042.Permit_Holder",
+      "match": "0049_comma.BusinessName"
+    },
+    {
+      "source": "0042.Permit_Address_Street_No",
+      "match": null
+    },
+    {
+      "source": "0042.Permit_Address_Street_Name",
+      "match": "0049_comma.Street"
+    },
+    {
+      "source": "0042.Permit_Address_Unit",
+      "match": "0049_comma.Unit"
+    },
+    {
+      "source": "0042.Permit_Address_Postal_Code",
+      "match": "0049_comma.PostalCode"
+    },
+    {
+      "source": "0042.Permit_Address_Ward",
+      "match": "0049_comma.FOLDERYEAR"
+    },
+    {
+      "source": "0042.Permit_Contact_Phone_No_",
+      "match": null
+    },
+    {
+      "source": "0042.Issue_Date",
+      "match": "0049_comma.FOLDERYEAR"
+    },
+    {
+      "source": "0042.Cancellation_Date",
+      "match": null
+    },
+    {
+      "source": "0042.geometry",
+      "match": "0049_comma.Geom"
+    }
+  ],
+  "details": {
+    "0042._id": {
+      "mapping": "0049_comma.LicenceRSN"
+    },
+    "0042.Permit_No": {
+      "mapping": "0049_comma.LicenceNumber"
+    },
+    "0042.Permit_Sticker_No": {
+      "mapping": null
+    },
+    "0042.Permit_Class": {
+      "mapping": null
+    },
+    "0042.Permit_Holder": {
+      "mapping": "0049_comma.BusinessName"
+    },
+    "0042.Permit_Address_Street_No": {
+      "mapping": null
+    },
+    "0042.Permit_Address_Street_Name": {
+      "mapping": "0049_comma.Street"
+    },
+    "0042.Permit_Address_Unit": {
+      "mapping": "0049_comma.Unit"
+    },
+    "0042.Permit_Address_Postal_Code": {
+      "mapping": "0049_comma.PostalCode"
+    },
+    "0042.Permit_Address_Ward": {
+      "mapping": "0049_comma.FOLDERYEAR"
+    },
+    "0042.Permit_Contact_Phone_No_": {
+      "mapping": null
+    },
+    "0042.Issue_Date": {
+      "mapping": "0049_comma.FOLDERYEAR"
+    },
+    "0042.Cancellation_Date": {
+      "mapping": null
+    },
+    "0042.geometry": {
+      "mapping": "0049_comma.Geom"
+    }
+  }
+}

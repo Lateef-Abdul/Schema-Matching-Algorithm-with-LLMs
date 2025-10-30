@@ -1,0 +1,97 @@
+{
+  "mappings": [
+    {
+      "source": "Housing.price",
+      "match": "USA Housing Dataset.price"
+    },
+    {
+      "source": "Housing.area",
+      "match": "USA Housing Dataset.sqft_lot"
+    },
+    {
+      "source": "Housing.bedrooms",
+      "match": "USA Housing Dataset.bedrooms"
+    },
+    {
+      "source": "Housing.bathrooms",
+      "match": "USA Housing Dataset.bathrooms"
+    },
+    {
+      "source": "Housing.stories",
+      "match": "USA Housing Dataset.floors"
+    },
+    {
+      "source": "Housing.mainroad",
+      "match": null
+    },
+    {
+      "source": "Housing.guestroom",
+      "match": null
+    },
+    {
+      "source": "Housing.basement",
+      "match": null
+    },
+    {
+      "source": "Housing.hotwaterheating",
+      "match": null
+    },
+    {
+      "source": "Housing.airconditioning",
+      "match": null
+    },
+    {
+      "source": "Housing.parking",
+      "match": null
+    },
+    {
+      "source": "Housing.prefarea",
+      "match": null
+    },
+    {
+      "source": "Housing.furnishingstatus",
+      "match": null
+    }
+  ],
+  "details": {
+    "Housing.price": {
+      "mapping": "USA Housing Dataset.price"
+    },
+    "Housing.area": {
+      "mapping": "USA Housing Dataset.sqft_lot"
+    },
+    "Housing.bedrooms": {
+      "mapping": "USA Housing Dataset.bedrooms"
+    },
+    "Housing.bathrooms": {
+      "mapping": "USA Housing Dataset.bathrooms"
+    },
+    "Housing.stories": {
+      "mapping": "USA Housing Dataset.floors"
+    },
+    "Housing.mainroad": {
+      "mapping": null
+    },
+    "Housing.guestroom": {
+      "mapping": null
+    },
+    "Housing.basement": {
+      "mapping": null
+    },
+    "Housing.hotwaterheating": {
+      "mapping": null
+    },
+    "Housing.airconditioning": {
+      "mapping": null
+    },
+    "Housing.parking": {
+      "mapping": null
+    },
+    "Housing.prefarea": {
+      "mapping": null
+    },
+    "Housing.furnishingstatus": {
+      "mapping": null
+    }
+  }
+}

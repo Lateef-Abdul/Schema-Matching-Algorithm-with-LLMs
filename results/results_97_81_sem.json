@@ -1,0 +1,123 @@
+{
+  "mappings": [
+    {
+      "source": "0097.Editing",
+      "match": null
+    },
+    {
+      "source": "0097.Botanical Name",
+      "match": "0081.Scientific Name"
+    },
+    {
+      "source": "0097.Common Name",
+      "match": "0081.Common Name"
+    },
+    {
+      "source": "0097.DBH",
+      "match": null
+    },
+    {
+      "source": "0097.Total Yearly Eco Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.Stormwater Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.Stormwater Gallons Saved",
+      "match": null
+    },
+    {
+      "source": "0097.Greenhouse CO2 Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.CO2 Avoided (in lbs.)",
+      "match": null
+    },
+    {
+      "source": "0097.CO2 Sequestered (in lbs.)",
+      "match": null
+    },
+    {
+      "source": "0097.Energy Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.kWh Saved",
+      "match": null
+    },
+    {
+      "source": "0097.Therms Saved",
+      "match": null
+    },
+    {
+      "source": "0097.Air Quality Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.Pollutants Saved (in lbs.)",
+      "match": null
+    },
+    {
+      "source": "0097.Property Benefits ($)",
+      "match": null
+    },
+    {
+      "source": "0097.Leaf Surface Area (in sq. ft.)",
+      "match": null
+    },
+    {
+      "source": "0097.Address",
+      "match": null
+    },
+    {
+      "source": "0097.Street",
+      "match": null
+    },
+    {
+      "source": "0097.Side",
+      "match": null
+    },
+    {
+      "source": "0097.Site",
+      "match": null
+    },
+    {
+      "source": "0097.Council District",
+      "match": null
+    },
+    {
+      "source": "0097.Park Name",
+      "match": null
+    },
+    {
+      "source": "0097.Latitude",
+      "match": null
+    },
+    {
+      "source": "0097.Longitude",
+      "match": null
+    },
+    {
+      "source": "0097.Site ID",
+      "match": null
+    },
+    {
+      "source": "0097.Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0097.Editing": {
+      "mapping": null
+    },
+    "0097.Botanical Name": {
+      "mapping": "0081.Scientific Name"
+    },
+    "0097.Common Name": {
+      "mapping": "0081.Common Name"
+    }
+  }
+}

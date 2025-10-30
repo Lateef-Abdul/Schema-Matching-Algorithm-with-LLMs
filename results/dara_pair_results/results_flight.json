@@ -1,0 +1,116 @@
+{
+  "mappings": [
+    {
+      "source": "Cancelled_Diverted_2023.FlightDate",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Day_Of_Week",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Airline",
+      "match": "flight_delays_sample1000.Airline"
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Tail_Number",
+      "match": "flight_delays_sample1000.TailNumber"
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Cancelled",
+      "match": "flight_delays_sample1000.Cancelled"
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Diverted",
+      "match": "flight_delays_sample1000.Diverted"
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Dep_Airport",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Dep_CityName",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.DepTime_label",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Dep_Delay",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Dep_Delay_Tag",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Dep_Delay_Type",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Arr_Airport",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Arr_CityName",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Arr_Delay",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Arr_Delay_Type",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Flight_Duration",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Distance_type",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Delay_Carrier",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Delay_Weather",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Delay_NAS",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Delay_Security",
+      "match": null
+    },
+    {
+      "source": "Cancelled_Diverted_2023.Delay_LastAircraft",
+      "match": null
+    }
+  ],
+  "details": {
+    "Cancelled_Diverted_2023.FlightDate": {
+      "mapping": null
+    },
+    "Cancelled_Diverted_2023.Day_Of_Week": {
+      "mapping": null
+    },
+    "Cancelled_Diverted_2023.Airline": {
+      "mapping": "flight_delays_sample1000.Airline"
+    },
+    "Cancelled_Diverted_2023.Tail_Number": {
+      "mapping": "flight_delays_sample1000.TailNumber"
+    },
+    "Cancelled_Diverted_2023.Cancelled": {
+      "mapping": "flight_delays_sample1000.Cancelled"
+    },
+    "Cancelled_Diverted_2023.Diverted": {
+      "mapping": "flight_delays_sample1000.Diverted"
+    }
+  }
+}

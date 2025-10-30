@@ -1,0 +1,108 @@
+{
+  "mappings": [
+    {
+      "source": "0023.PermitNum",
+      "match": "0015.PermitNum"
+    },
+    {
+      "source": "0023.PermitClass",
+      "match": "0015.PermitClass"
+    },
+    {
+      "source": "0023.PermitClassMapped",
+      "match": "0015.PermitClassMapped"
+    },
+    {
+      "source": "0023.PermitType",
+      "match": null
+    },
+    {
+      "source": "0023.PermitTypeMapped",
+      "match": "0015.PermitTypeMapped"
+    },
+    {
+      "source": "0023.Description",
+      "match": "0015.Description"
+    },
+    {
+      "source": "0023.EstProjectCost",
+      "match": null
+    },
+    {
+      "source": "0023.AppliedDate",
+      "match": null
+    },
+    {
+      "source": "0023.IssuedDate",
+      "match": null
+    },
+    {
+      "source": "0023.ExpiresDate",
+      "match": null
+    },
+    {
+      "source": "0023.CompletedDate",
+      "match": null
+    },
+    {
+      "source": "0023.StatusCurrent",
+      "match": null
+    },
+    {
+      "source": "0023.OriginalAddress1",
+      "match": null
+    },
+    {
+      "source": "0023.OriginalCity",
+      "match": null
+    },
+    {
+      "source": "0023.OriginalState",
+      "match": null
+    },
+    {
+      "source": "0023.OriginalZip",
+      "match": null
+    },
+    {
+      "source": "0023.ContractorCompanyName",
+      "match": null
+    },
+    {
+      "source": "0023.Link",
+      "match": null
+    },
+    {
+      "source": "0023.Latitude",
+      "match": null
+    },
+    {
+      "source": "0023.Longitude",
+      "match": null
+    },
+    {
+      "source": "0023.Location1",
+      "match": null
+    }
+  ],
+  "details": {
+    "0023.PermitNum": {
+      "mapping": "0015.PermitNum"
+    },
+    "0023.PermitClass": {
+      "mapping": "0015.PermitClass"
+    },
+    "0023.PermitClassMapped": {
+      "mapping": "0015.PermitClassMapped"
+    },
+    "0023.PermitType": {
+      "mapping": null
+    },
+    "0023.PermitTypeMapped": {
+      "mapping": "0015.PermitTypeMapped"
+    },
+    "0023.Description": {
+      "mapping": "0015.Description"
+    }
+  }
+}

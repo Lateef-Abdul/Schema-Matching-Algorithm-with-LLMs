@@ -1,0 +1,125 @@
+{
+  "mappings": [
+    {
+      "source": "0047._id",
+      "match": null
+    },
+    {
+      "source": "0047.OBJECTID",
+      "match": null
+    },
+    {
+      "source": "0047.BLD_ID",
+      "match": null
+    },
+    {
+      "source": "0047.DEV_ID",
+      "match": null
+    },
+    {
+      "source": "0047.DEV_NAME",
+      "match": null
+    },
+    {
+      "source": "0047.NGHBRHD_NUM",
+      "match": null
+    },
+    {
+      "source": "0047.POLICE_DIV",
+      "match": null
+    },
+    {
+      "source": "0047.PSTL_CODE",
+      "match": null
+    },
+    {
+      "source": "0047.TTL_RES_UNIT",
+      "match": null
+    },
+    {
+      "source": "0047.MRKT_UNIT",
+      "match": null
+    },
+    {
+      "source": "0047.RGI_UNITS",
+      "match": null
+    },
+    {
+      "source": "0047.YR_BUILT",
+      "match": null
+    },
+    {
+      "source": "0047.SCATTERED",
+      "match": null
+    },
+    {
+      "source": "0047.BLD_FORM",
+      "match": null
+    },
+    {
+      "source": "0047.FLR_ABV_GR",
+      "match": null
+    },
+    {
+      "source": "0047.BLD_DESC",
+      "match": null
+    },
+    {
+      "source": "0047.geometry",
+      "match": null
+    }
+  ],
+  "details": {
+    "0047._id": {
+      "mapping": null
+    },
+    "0047.OBJECTID": {
+      "mapping": null
+    },
+    "0047.BLD_ID": {
+      "mapping": null
+    },
+    "0047.DEV_ID": {
+      "mapping": null
+    },
+    "0047.DEV_NAME": {
+      "mapping": null
+    },
+    "0047.NGHBRHD_NUM": {
+      "mapping": null
+    },
+    "0047.POLICE_DIV": {
+      "mapping": null
+    },
+    "0047.PSTL_CODE": {
+      "mapping": null
+    },
+    "0047.TTL_RES_UNIT": {
+      "mapping": null
+    },
+    "0047.MRKT_UNIT": {
+      "mapping": null
+    },
+    "0047.RGI_UNITS": {
+      "mapping": null
+    },
+    "0047.YR_BUILT": {
+      "mapping": null
+    },
+    "0047.SCATTERED": {
+      "mapping": null
+    },
+    "0047.BLD_FORM": {
+      "mapping": null
+    },
+    "0047.FLR_ABV_GR": {
+      "mapping": null
+    },
+    "0047.BLD_DESC": {
+      "mapping": null
+    },
+    "0047.geometry": {
+      "mapping": null
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "mappings": [
+    {
+      "source": "0088.WATERSHED",
+      "match": null
+    },
+    {
+      "source": "0088.SAMPLE_DATE",
+      "match": null
+    },
+    {
+      "source": "0088.SITE_NAME",
+      "match": null
+    },
+    {
+      "source": "0088.SITE_TYPE",
+      "match": null
+    },
+    {
+      "source": "0088.MEDIUM",
+      "match": null
+    },
+    {
+      "source": "0088.PARAM_TYPE",
+      "match": null
+    },
+    {
+      "source": "0088.PARAMETER",
+      "match": null
+    },
+    {
+      "source": "0088.RESULT",
+      "match": null
+    },
+    {
+      "source": "0088.UNIT",
+      "match": null
+    },
+    {
+      "source": "0088.FILTER",
+      "match": null
+    },
+    {
+      "source": "0088.SAMPLE_ID",
+      "match": null
+    },
+    {
+      "source": "0088.SAMPLE_SITE_NO",
+      "match": null
+    },
+    {
+      "source": "0088.METHOD",
+      "match": null
+    },
+    {
+      "source": "0088.QC_FLAG",
+      "match": null
+    },
+    {
+      "source": "0088.PROJECT",
+      "match": null
+    },
+    {
+      "source": "0088.Location",
+      "match": null
+    },
+    {
+      "source": "0088.DATA_REF_NO",
+      "match": null
+    },
+    {
+      "source": "0088.LAT_DD_WGS84",
+      "match": null
+    },
+    {
+      "source": "0088.LON_DD_WGS84",
+      "match": null
+    },
+    {
+      "source": "0088.SAMPLE_REF_NO",
+      "match": null
+    },
+    {
+      "source": "0088.TIME_NULL",
+      "match": null
+    },
+    {
+      "source": "0088.QC_TYPE",
+      "match": null
+    }
+  ],
+  "details": {
+    "0088.WATERSHED": {
+      "mapping": null
+    },
+    "0088.SAMPLE_DATE": {
+      "mapping": null
+    },
+    "0088.SITE_NAME": {
+      "mapping": null
+    },
+    "0088.SITE_TYPE": {
+      "mapping": null
+    },
+    "0088.MEDIUM": {
+      "mapping": null
+    },
+    "0088.PARAM_TYPE": {
+      "mapping": null
+    },
+    "0088.PARAMETER": {
+      "mapping": null
+    },
+    "0088.RESULT": {
+      "mapping": null
+    },
+    "0088.UNIT": {
+      "mapping": null
+    },
+    "0088.FILTER": {
+      "mapping": null
+    },
+    "0088.SAMPLE_ID": {
+      "mapping": null
+    },
+    "0088.SAMPLE_SITE_NO": {
+      "mapping": null
+    },
+    "0088.METHOD": {
+      "mapping": null
+    },
+    "0088.QC_FLAG": {
+      "mapping": null
+    },
+    "0088.PROJECT": {
+      "mapping": null
+    },
+    "0088.Location": {
+      "mapping": null
+    },
+    "0088.DATA_REF_NO": {
+      "mapping": null
+    },
+    "0088.LAT_DD_WGS84": {
+      "mapping": null
+    },
+    "0088.LON_DD_WGS84": {
+      "mapping": null
+    },
+    "0088.SAMPLE_REF_NO": {
+      "mapping": null
+    },
+    "0088.TIME_NULL": {
+      "mapping": null
+    },
+    "0088.QC_TYPE": {
+      "mapping": null
+    }
+  }
+}

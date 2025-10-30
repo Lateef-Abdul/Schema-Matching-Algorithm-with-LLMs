@@ -1,0 +1,113 @@
+{
+  "mappings": [
+    {
+      "source": "0046._id",
+      "match": null
+    },
+    {
+      "source": "0046.Index_",
+      "match": null
+    },
+    {
+      "source": "0046.event_unique_id",
+      "match": null
+    },
+    {
+      "source": "0046.Primary_Offence",
+      "match": null
+    },
+    {
+      "source": "0046.Occurrence_Date",
+      "match": null
+    },
+    {
+      "source": "0046.Occurrence_Year",
+      "match": null
+    },
+    {
+      "source": "0046.Occurrence_Month",
+      "match": null
+    },
+    {
+      "source": "0046.Occurrence_Day",
+      "match": null
+    },
+    {
+      "source": "0046.Occurrence_Time",
+      "match": null
+    },
+    {
+      "source": "0046.Division",
+      "match": null
+    },
+    {
+      "source": "0046.City",
+      "match": null
+    },
+    {
+      "source": "0046.Location_Type",
+      "match": null
+    },
+    {
+      "source": "0046.Premise_Type",
+      "match": null
+    },
+    {
+      "source": "0046.Bike_Make",
+      "match": null
+    },
+    {
+      "source": "0046.Bike_Model",
+      "match": null
+    },
+    {
+      "source": "0046.Bike_Type",
+      "match": null
+    },
+    {
+      "source": "0046.Bike_Speed",
+      "match": null
+    },
+    {
+      "source": "0046.Bike_Colour",
+      "match": null
+    },
+    {
+      "source": "0046.Cost_of_Bike",
+      "match": null
+    },
+    {
+      "source": "0046.Status",
+      "match": null
+    },
+    {
+      "source": "0046.Hood_ID",
+      "match": null
+    },
+    {
+      "source": "0046.Neighbourhood",
+      "match": null
+    },
+    {
+      "source": "0046.Lat",
+      "match": null
+    },
+    {
+      "source": "0046.Long",
+      "match": null
+    },
+    {
+      "source": "0046.ObjectId",
+      "match": null
+    },
+    {
+      "source": "0046.geometry",
+      "match": null
+    }
+  ],
+  "details": {
+    "0046._id": {
+      "mapping": null
+    }
+  }
+}

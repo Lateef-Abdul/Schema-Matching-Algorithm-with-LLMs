@@ -1,0 +1,167 @@
+{
+  "mappings": [
+    {
+      "source": "0041.Branch ID",
+      "match": null
+    },
+    {
+      "source": "0041.Branch",
+      "match": null
+    },
+    {
+      "source": "0041.Address",
+      "match": "0037.ADDRESS"
+    },
+    {
+      "source": "0041.Postal Code",
+      "match": "0037.POSTAL_CODE"
+    },
+    {
+      "source": "0041.Phone Number",
+      "match": null
+    },
+    {
+      "source": "0041.Free WiFi",
+      "match": null
+    },
+    {
+      "source": "0041.Monday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Monday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Tuesday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Tuesday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Wednesday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Wednesday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Thursday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Thursday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Friday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Friday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Saturday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Saturday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Sunday Open",
+      "match": null
+    },
+    {
+      "source": "0041.Sunday Close",
+      "match": null
+    },
+    {
+      "source": "0041.Latitude",
+      "match": "0037.LATITUDE"
+    },
+    {
+      "source": "0041.Longitude",
+      "match": "0037.LONGITUDE"
+    },
+    {
+      "source": "0041.Location",
+      "match": "0037.LOCATION"
+    }
+  ],
+  "details": {
+    "0041.Branch ID": {
+      "mapping": null
+    },
+    "0041.Branch": {
+      "mapping": null
+    },
+    "0041.Address": {
+      "mapping": "0037.ADDRESS"
+    },
+    "0041.Postal Code": {
+      "mapping": "0037.POSTAL_CODE"
+    },
+    "0041.Phone Number": {
+      "mapping": null
+    },
+    "0041.Free WiFi": {
+      "mapping": null
+    },
+    "0041.Monday Open": {
+      "mapping": null
+    },
+    "0041.Monday Close": {
+      "mapping": null
+    },
+    "0041.Tuesday Open": {
+      "mapping": null
+    },
+    "0041.Tuesday Close": {
+      "mapping": null
+    },
+    "0041.Wednesday Open": {
+      "mapping": null
+    },
+    "0041.Wednesday Close": {
+      "mapping": null
+    },
+    "0041.Thursday Open": {
+      "mapping": null
+    },
+    "0041.Thursday Close": {
+      "mapping": null
+    },
+    "0041.Friday Open": {
+      "mapping": null
+    },
+    "0041.Friday Close": {
+      "mapping": null
+    },
+    "0041.Saturday Open": {
+      "mapping": null
+    },
+    "0041.Saturday Close": {
+      "mapping": null
+    },
+    "0041.Sunday Open": {
+      "mapping": null
+    },
+    "0041.Sunday Close": {
+      "mapping": null
+    },
+    "0041.Latitude": {
+      "mapping": "0037.LATITUDE"
+    },
+    "0041.Longitude": {
+      "mapping": "0037.LONGITUDE"
+    },
+    "0041.Location": {
+      "mapping": "0037.LOCATION"
+    }
+  }
+}

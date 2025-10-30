@@ -1,0 +1,202 @@
+{
+  "mappings": [
+    {
+      "source": "0090.INTERSECTIONID",
+      "match": null
+    },
+    {
+      "source": "0090.ONST",
+      "match": null
+    },
+    {
+      "source": "0090.CRST",
+      "match": null
+    },
+    {
+      "source": "0090.QUAD",
+      "match": null
+    },
+    {
+      "source": "0090.INSPECTOR",
+      "match": null
+    },
+    {
+      "source": "0090.DATE",
+      "match": null
+    },
+    {
+      "source": "0090.EVNT_LAT",
+      "match": null
+    },
+    {
+      "source": "0090.EVNT_LON",
+      "match": null
+    },
+    {
+      "source": "0090.EVNT_MAP",
+      "match": null
+    },
+    {
+      "source": "0090.EVNT_TYPE",
+      "match": null
+    },
+    {
+      "source": "0090.PED_SIGNAL_PRES",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_SIZE",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_FORCE",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_OP",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_CTRST",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_VIS",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_AUD",
+      "match": null
+    },
+    {
+      "source": "0090.CMNT_1",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_LDG",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_PROX",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_PLACE",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_SEP",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_HGT",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_CW_1",
+      "match": null
+    },
+    {
+      "source": "0090.CPL_CW_2",
+      "match": null
+    },
+    {
+      "source": "0090.CMNT_2",
+      "match": null
+    },
+    {
+      "source": "0090.OA_CMNT",
+      "match": null
+    },
+    {
+      "source": "0090.Mapped Location",
+      "match": null
+    }
+  ],
+  "details": {
+    "0090.INTERSECTIONID": {
+      "mapping": null
+    },
+    "0090.ONST": {
+      "mapping": null
+    },
+    "0090.CRST": {
+      "mapping": null
+    },
+    "0090.QUAD": {
+      "mapping": null
+    },
+    "0090.INSPECTOR": {
+      "mapping": null
+    },
+    "0090.DATE": {
+      "mapping": null
+    },
+    "0090.EVNT_LAT": {
+      "mapping": null
+    },
+    "0090.EVNT_LON": {
+      "mapping": null
+    },
+    "0090.EVNT_MAP": {
+      "mapping": null
+    },
+    "0090.EVNT_TYPE": {
+      "mapping": null
+    },
+    "0090.PED_SIGNAL_PRES": {
+      "mapping": null
+    },
+    "0090.CPL_SIZE": {
+      "mapping": null
+    },
+    "0090.CPL_FORCE": {
+      "mapping": null
+    },
+    "0090.CPL_OP": {
+      "mapping": null
+    },
+    "0090.CPL_CTRST": {
+      "mapping": null
+    },
+    "0090.CPL_VIS": {
+      "mapping": null
+    },
+    "0090.CPL_AUD": {
+      "mapping": null
+    },
+    "0090.CMNT_1": {
+      "mapping": null
+    },
+    "0090.CPL_LDG": {
+      "mapping": null
+    },
+    "0090.CPL_PROX": {
+      "mapping": null
+    },
+    "0090.CPL_PLACE": {
+      "mapping": null
+    },
+    "0090.CPL_SEP": {
+      "mapping": null
+    },
+    "0090.CPL_HGT": {
+      "mapping": null
+    },
+    "0090.CPL_CW_1": {
+      "mapping": null
+    },
+    "0090.CPL_CW_2": {
+      "mapping": null
+    },
+    "0090.CMNT_2": {
+      "mapping": null
+    },
+    "0090.OA_CMNT": {
+      "mapping": null
+    },
+    "0090.Mapped Location": {
+      "mapping": null
+    }
+  }
+}

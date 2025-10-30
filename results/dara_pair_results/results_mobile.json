@@ -1,0 +1,111 @@
+{
+  "mappings": [
+    {
+      "source": "Mobiles Dataset (2025).Company Name",
+      "match": "ndtv_data_final.Brand"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Model Name",
+      "match": "ndtv_data_final.Name"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Mobile Weight",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).RAM",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Front Camera",
+      "match": "ndtv_data_final.Front camera"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Back Camera",
+      "match": "ndtv_data_final.Rear camera"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Processor",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Battery Capacity",
+      "match": "ndtv_data_final.Battery capacity (mAh)"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Screen Size",
+      "match": "ndtv_data_final.Screen size (inches)"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Price (Pakistan)",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Price (India)",
+      "match": "ndtv_data_final.Price"
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Price (China)",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Price (USA)",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Price (Dubai)",
+      "match": null
+    },
+    {
+      "source": "Mobiles Dataset (2025).Launched Year",
+      "match": null
+    }
+  ],
+  "details": {
+    "Mobiles Dataset (2025).Company Name": {
+      "mapping": "ndtv_data_final.Brand"
+    },
+    "Mobiles Dataset (2025).Model Name": {
+      "mapping": "ndtv_data_final.Name"
+    },
+    "Mobiles Dataset (2025).Mobile Weight": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).RAM": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Front Camera": {
+      "mapping": "ndtv_data_final.Front camera"
+    },
+    "Mobiles Dataset (2025).Back Camera": {
+      "mapping": "ndtv_data_final.Rear camera"
+    },
+    "Mobiles Dataset (2025).Processor": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Battery Capacity": {
+      "mapping": "ndtv_data_final.Battery capacity (mAh)"
+    },
+    "Mobiles Dataset (2025).Screen Size": {
+      "mapping": "ndtv_data_final.Screen size (inches)"
+    },
+    "Mobiles Dataset (2025).Launched Price (Pakistan)": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Launched Price (India)": {
+      "mapping": "ndtv_data_final.Price"
+    },
+    "Mobiles Dataset (2025).Launched Price (China)": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Launched Price (USA)": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Launched Price (Dubai)": {
+      "mapping": null
+    },
+    "Mobiles Dataset (2025).Launched Year": {
+      "mapping": null
+    }
+  }
+}

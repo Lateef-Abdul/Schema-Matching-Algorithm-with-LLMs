@@ -1,0 +1,109 @@
+{
+  "mappings": [
+    {
+      "source": "0018.FRB #",
+      "match": null
+    },
+    {
+      "source": "0018.Incident Number",
+      "match": null
+    },
+    {
+      "source": "0018.Date / Time",
+      "match": null
+    },
+    {
+      "source": "0018.Blurred Address",
+      "match": null
+    },
+    {
+      "source": "0018.Longitude",
+      "match": null
+    },
+    {
+      "source": "0018.Latitude",
+      "match": null
+    },
+    {
+      "source": "0018.City",
+      "match": null
+    },
+    {
+      "source": "0018.State",
+      "match": null
+    },
+    {
+      "source": "0018.Rank",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Gender",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Race",
+      "match": null
+    },
+    {
+      "source": "0018.Years of SPD Service",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Injured",
+      "match": null
+    },
+    {
+      "source": "0018.Number of Rounds",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Gender",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Race",
+      "match": null
+    },
+    {
+      "source": "0018.Subject DOB",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Age",
+      "match": null
+    },
+    {
+      "source": "0018.Subject Weapon",
+      "match": null
+    },
+    {
+      "source": "0018.Type of Weapon",
+      "match": null
+    },
+    {
+      "source": "0018.Fatal",
+      "match": null
+    },
+    {
+      "source": "0018.On-duty",
+      "match": null
+    },
+    {
+      "source": "0018.Disposition",
+      "match": null
+    },
+    {
+      "source": "0018.Officer Disciplined?",
+      "match": null
+    },
+    {
+      "source": "0018.Summary",
+      "match": null
+    }
+  ],
+  "details": {
+    "0018.FRB #": {
+      "mapping": null
+    }
+  }
+}
