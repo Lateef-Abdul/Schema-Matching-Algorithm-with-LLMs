@@ -18,7 +18,7 @@
     },
     {
       "source": "0046.Occurrence_Date",
-      "match": null
+      "match": "0010.Date Time"
     },
     {
       "source": "0046.Occurrence_Year",
@@ -34,7 +34,7 @@
     },
     {
       "source": "0046.Occurrence_Time",
-      "match": null
+      "match": "0010.Date Time"
     },
     {
       "source": "0046.Division",
@@ -90,11 +90,11 @@
     },
     {
       "source": "0046.Lat",
-      "match": null
+      "match": "0010.Latitude"
     },
     {
       "source": "0046.Long",
-      "match": null
+      "match": "0010.Longitude"
     },
     {
       "source": "0046.ObjectId",
@@ -107,6 +107,81 @@
   ],
   "details": {
     "0046._id": {
+      "mapping": null
+    },
+    "0046.Index_": {
+      "mapping": null
+    },
+    "0046.event_unique_id": {
+      "mapping": null
+    },
+    "0046.Primary_Offence": {
+      "mapping": null
+    },
+    "0046.Occurrence_Date": {
+      "mapping": "0010.Date Time"
+    },
+    "0046.Occurrence_Year": {
+      "mapping": null
+    },
+    "0046.Occurrence_Month": {
+      "mapping": null
+    },
+    "0046.Occurrence_Day": {
+      "mapping": null
+    },
+    "0046.Occurrence_Time": {
+      "mapping": "0010.Date Time"
+    },
+    "0046.Division": {
+      "mapping": null
+    },
+    "0046.City": {
+      "mapping": null
+    },
+    "0046.Location_Type": {
+      "mapping": null
+    },
+    "0046.Premise_Type": {
+      "mapping": null
+    },
+    "0046.Bike_Make": {
+      "mapping": null
+    },
+    "0046.Bike_Model": {
+      "mapping": null
+    },
+    "0046.Bike_Type": {
+      "mapping": null
+    },
+    "0046.Bike_Speed": {
+      "mapping": null
+    },
+    "0046.Bike_Colour": {
+      "mapping": null
+    },
+    "0046.Cost_of_Bike": {
+      "mapping": null
+    },
+    "0046.Status": {
+      "mapping": null
+    },
+    "0046.Hood_ID": {
+      "mapping": null
+    },
+    "0046.Neighbourhood": {
+      "mapping": null
+    },
+    "0046.Lat": {
+      "mapping": "0010.Latitude"
+    },
+    "0046.Long": {
+      "mapping": "0010.Longitude"
+    },
+    "0046.ObjectId": {
+      "mapping": null
+    },
+    "0046.geometry": {
       "mapping": null
     }
   }

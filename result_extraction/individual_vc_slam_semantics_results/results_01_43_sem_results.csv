@@ -1,0 +1,9 @@
+source_column,match_column
+0001.Location,0043.geometry
+0001.Pay by Cash,
+0001.Pay by Credit card,
+0001.Address,0043.address
+0001.Coordinates,0043.geometry
+0001.Longitude,
+0001.Latitude,
+0001.TVM Identifier,

@@ -1,0 +1,12 @@
+source_column,match_column
+0091.Company Phone,0092.Company Phone
+0091.Company Website,0092.Company Website
+0091.Real Time Fare,0092.Real Time Fare
+0091.Availability Duration,0092.Availability Duration
+0091.Availability Start Time,0092.Availability Start Time
+0091.Availability Start Date,0092.Availability Start Date
+0091.GPS Longitude,0092.GPS Longitude
+0091.GPS Latitude,0092.GPS Latitude
+0091.SUMD Group,0092.SUMD Group
+0091.SUMD Type,0092.SUMD Type
+0091.SUMD ID,0092.SUMD ID

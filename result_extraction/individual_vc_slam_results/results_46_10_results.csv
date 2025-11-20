@@ -1,0 +1,27 @@
+source_column,match_column
+0046.geometry,
+0046.ObjectId,
+0046.Long,0010.Longitude
+0046.Lat,0010.Latitude
+0046.Neighbourhood,
+0046.Hood_ID,
+0046.Status,
+0046.Cost_of_Bike,
+0046.Bike_Colour,
+0046.Bike_Speed,
+0046.Bike_Type,
+0046.Bike_Model,
+0046.Bike_Make,
+0046.Premise_Type,
+0046.Location_Type,
+0046.City,
+0046.Division,
+0046.Occurrence_Time,0010.Date Time
+0046.Occurrence_Day,0010.Date Time
+0046.Occurrence_Month,0010.Date Time
+0046.Occurrence_Year,0010.Date Time
+0046.Occurrence_Date,0010.Date Time
+0046.Primary_Offence,
+0046.event_unique_id,
+0046.Index_,
+0046._id,

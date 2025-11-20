@@ -1,0 +1,15 @@
+source_column,match_column
+cwurData.year,
+cwurData.score,
+cwurData.patents,
+cwurData.broad_impact,
+cwurData.citations,
+cwurData.influence,
+cwurData.publications,
+cwurData.quality_of_faculty,
+cwurData.alumni_employment,
+cwurData.quality_of_education,
+cwurData.national_rank,
+cwurData.country,qs-world-rankings-2025.Location Full
+cwurData.institution,qs-world-rankings-2025.Institution Name
+cwurData.world_rank,

@@ -1,0 +1,90 @@
+{
+  "mappings": [
+    {
+      "source": "barnes_and_noble_1.id",
+      "match": "barnes_and_noble.ID"
+    },
+    {
+      "source": "barnes_and_noble_1.title",
+      "match": "barnes_and_noble.Title"
+    },
+    {
+      "source": "barnes_and_noble_1.authors",
+      "match": "barnes_and_noble.Author1"
+    },
+    {
+      "source": "barnes_and_noble_1.pubyear",
+      "match": null
+    },
+    {
+      "source": "barnes_and_noble_1.pubmonth",
+      "match": null
+    },
+    {
+      "source": "barnes_and_noble_1.pubday",
+      "match": null
+    },
+    {
+      "source": "barnes_and_noble_1.edition",
+      "match": "barnes_and_noble.Edition"
+    },
+    {
+      "source": "barnes_and_noble_1.publisher",
+      "match": "barnes_and_noble.Publisher"
+    },
+    {
+      "source": "barnes_and_noble_1.isbn13",
+      "match": "barnes_and_noble.ISBN13"
+    },
+    {
+      "source": "barnes_and_noble_1.language",
+      "match": "barnes_and_noble.Language"
+    },
+    {
+      "source": "barnes_and_noble_1.series",
+      "match": "barnes_and_noble.Series"
+    },
+    {
+      "source": "barnes_and_noble_1.pages",
+      "match": "barnes_and_noble.Pages"
+    }
+  ],
+  "details": {
+    "barnes_and_noble_1.id": {
+      "mapping": "barnes_and_noble.ID"
+    },
+    "barnes_and_noble_1.title": {
+      "mapping": "barnes_and_noble.Title"
+    },
+    "barnes_and_noble_1.authors": {
+      "mapping": "barnes_and_noble.Author1"
+    },
+    "barnes_and_noble_1.pubyear": {
+      "mapping": null
+    },
+    "barnes_and_noble_1.pubmonth": {
+      "mapping": null
+    },
+    "barnes_and_noble_1.pubday": {
+      "mapping": null
+    },
+    "barnes_and_noble_1.edition": {
+      "mapping": "barnes_and_noble.Edition"
+    },
+    "barnes_and_noble_1.publisher": {
+      "mapping": "barnes_and_noble.Publisher"
+    },
+    "barnes_and_noble_1.isbn13": {
+      "mapping": "barnes_and_noble.ISBN13"
+    },
+    "barnes_and_noble_1.language": {
+      "mapping": "barnes_and_noble.Language"
+    },
+    "barnes_and_noble_1.series": {
+      "mapping": "barnes_and_noble.Series"
+    },
+    "barnes_and_noble_1.pages": {
+      "mapping": "barnes_and_noble.Pages"
+    }
+  }
+}

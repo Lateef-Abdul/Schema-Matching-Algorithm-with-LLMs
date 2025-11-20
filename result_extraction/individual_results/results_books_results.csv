@@ -1,0 +1,13 @@
+source_column,match_column
+barnes_and_noble_1.pages,barnes_and_noble.Pages
+barnes_and_noble_1.series,barnes_and_noble.Series
+barnes_and_noble_1.language,barnes_and_noble.Language
+barnes_and_noble_1.isbn13,barnes_and_noble.ISBN13
+barnes_and_noble_1.publisher,barnes_and_noble.Publisher
+barnes_and_noble_1.edition,barnes_and_noble.Edition
+barnes_and_noble_1.pubday,
+barnes_and_noble_1.pubmonth,
+barnes_and_noble_1.pubyear,
+barnes_and_noble_1.authors,barnes_and_noble.Author1
+barnes_and_noble_1.title,barnes_and_noble.Title
+barnes_and_noble_1.id,barnes_and_noble.ID

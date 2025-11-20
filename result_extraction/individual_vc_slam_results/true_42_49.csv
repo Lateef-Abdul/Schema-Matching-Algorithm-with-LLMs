@@ -1,0 +1,15 @@
+source_column,true_match
+0042.geometry,0049_comma.Geom
+0042.Cancellation_Date,0049_comma.ExpiredDate
+0042.Issue_Date,0049_comma.IssuedDate
+0042.Permit_Contact_Phone_No_,
+0042.Permit_Address_Ward,
+0042.Permit_Address_Postal_Code,0049_comma.PostalCode
+0042.Permit_Address_Unit,0049_comma.Unit
+0042.Permit_Address_Street_Name,0049_comma.Street
+0042.Permit_Address_Street_No,0049_comma.House
+0042.Permit_Holder,0049_comma.BusinessName
+0042.Permit_Class,
+0042.Permit_Sticker_No,
+0042.Permit_No,0049_comma.LicenceNumber
+0042._id,

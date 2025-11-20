@@ -1,0 +1,16 @@
+source_column,match_column
+Mobiles Dataset (2025).Launched Year,
+Mobiles Dataset (2025).Launched Price (Dubai),
+Mobiles Dataset (2025).Launched Price (USA),
+Mobiles Dataset (2025).Launched Price (China),
+Mobiles Dataset (2025).Launched Price (India),ndtv_data_final.Price
+Mobiles Dataset (2025).Launched Price (Pakistan),
+Mobiles Dataset (2025).Screen Size,ndtv_data_final.Screen size (inches)
+Mobiles Dataset (2025).Battery Capacity,ndtv_data_final.Battery capacity (mAh)
+Mobiles Dataset (2025).Processor,
+Mobiles Dataset (2025).Back Camera,ndtv_data_final.Rear camera
+Mobiles Dataset (2025).Front Camera,ndtv_data_final.Front camera
+Mobiles Dataset (2025).RAM,
+Mobiles Dataset (2025).Mobile Weight,
+Mobiles Dataset (2025).Model Name,ndtv_data_final.Name
+Mobiles Dataset (2025).Company Name,ndtv_data_final.Brand

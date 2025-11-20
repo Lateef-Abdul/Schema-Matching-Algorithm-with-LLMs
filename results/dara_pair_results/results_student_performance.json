@@ -1,0 +1,237 @@
+{
+  "mappings": [
+    {
+      "source": "student_data.school",
+      "match": null
+    },
+    {
+      "source": "student_data.sex",
+      "match": "student_info.gender"
+    },
+    {
+      "source": "student_data.age",
+      "match": "student_info.age"
+    },
+    {
+      "source": "student_data.address",
+      "match": null
+    },
+    {
+      "source": "student_data.famsize",
+      "match": null
+    },
+    {
+      "source": "student_data.Pstatus",
+      "match": null
+    },
+    {
+      "source": "student_data.Medu",
+      "match": null
+    },
+    {
+      "source": "student_data.Fedu",
+      "match": null
+    },
+    {
+      "source": "student_data.Mjob",
+      "match": null
+    },
+    {
+      "source": "student_data.Fjob",
+      "match": null
+    },
+    {
+      "source": "student_data.reason",
+      "match": null
+    },
+    {
+      "source": "student_data.guardian",
+      "match": null
+    },
+    {
+      "source": "student_data.traveltime",
+      "match": null
+    },
+    {
+      "source": "student_data.studytime",
+      "match": "student_info.study_hours"
+    },
+    {
+      "source": "student_data.failures",
+      "match": null
+    },
+    {
+      "source": "student_data.schoolsup",
+      "match": null
+    },
+    {
+      "source": "student_data.famsup",
+      "match": null
+    },
+    {
+      "source": "student_data.paid",
+      "match": null
+    },
+    {
+      "source": "student_data.activities",
+      "match": "student_info.extra_activities"
+    },
+    {
+      "source": "student_data.nursery",
+      "match": null
+    },
+    {
+      "source": "student_data.higher",
+      "match": null
+    },
+    {
+      "source": "student_data.internet",
+      "match": "student_info.internet_access"
+    },
+    {
+      "source": "student_data.romantic",
+      "match": null
+    },
+    {
+      "source": "student_data.famrel",
+      "match": null
+    },
+    {
+      "source": "student_data.freetime",
+      "match": null
+    },
+    {
+      "source": "student_data.goout",
+      "match": null
+    },
+    {
+      "source": "student_data.Dalc",
+      "match": null
+    },
+    {
+      "source": "student_data.Walc",
+      "match": null
+    },
+    {
+      "source": "student_data.health",
+      "match": null
+    },
+    {
+      "source": "student_data.absences",
+      "match": null
+    },
+    {
+      "source": "student_data.G1",
+      "match": null
+    },
+    {
+      "source": "student_data.G2",
+      "match": null
+    },
+    {
+      "source": "student_data.G3",
+      "match": null
+    }
+  ],
+  "details": {
+    "student_data.school": {
+      "mapping": null
+    },
+    "student_data.sex": {
+      "mapping": "student_info.gender"
+    },
+    "student_data.age": {
+      "mapping": "student_info.age"
+    },
+    "student_data.address": {
+      "mapping": null
+    },
+    "student_data.famsize": {
+      "mapping": null
+    },
+    "student_data.Pstatus": {
+      "mapping": null
+    },
+    "student_data.Medu": {
+      "mapping": null
+    },
+    "student_data.Fedu": {
+      "mapping": null
+    },
+    "student_data.Mjob": {
+      "mapping": null
+    },
+    "student_data.Fjob": {
+      "mapping": null
+    },
+    "student_data.reason": {
+      "mapping": null
+    },
+    "student_data.guardian": {
+      "mapping": null
+    },
+    "student_data.traveltime": {
+      "mapping": null
+    },
+    "student_data.studytime": {
+      "mapping": "student_info.study_hours"
+    },
+    "student_data.failures": {
+      "mapping": null
+    },
+    "student_data.schoolsup": {
+      "mapping": null
+    },
+    "student_data.famsup": {
+      "mapping": null
+    },
+    "student_data.paid": {
+      "mapping": null
+    },
+    "student_data.activities": {
+      "mapping": "student_info.extra_activities"
+    },
+    "student_data.nursery": {
+      "mapping": null
+    },
+    "student_data.higher": {
+      "mapping": null
+    },
+    "student_data.internet": {
+      "mapping": "student_info.internet_access"
+    },
+    "student_data.romantic": {
+      "mapping": null
+    },
+    "student_data.famrel": {
+      "mapping": null
+    },
+    "student_data.freetime": {
+      "mapping": null
+    },
+    "student_data.goout": {
+      "mapping": null
+    },
+    "student_data.Dalc": {
+      "mapping": null
+    },
+    "student_data.Walc": {
+      "mapping": null
+    },
+    "student_data.health": {
+      "mapping": null
+    },
+    "student_data.absences": {
+      "mapping": null
+    },
+    "student_data.G1": {
+      "mapping": null
+    },
+    "student_data.G2": {
+      "mapping": null
+    },
+    "student_data.G3": {
+      "mapping": null
+    }
+  }
+}

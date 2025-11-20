@@ -1,0 +1,22 @@
+source_column,true_match
+insurance_dataset.Premium Amount,synthetic_insurance_data.Premium_Amount
+insurance_dataset.Property Type,
+insurance_dataset.Exercise Frequency,
+insurance_dataset.Smoking Status,
+insurance_dataset.Customer Feedback,
+insurance_dataset.Policy Start Date,
+insurance_dataset.Insurance Duration,
+insurance_dataset.Credit Score,synthetic_insurance_data.Credit_Score
+insurance_dataset.Vehicle Age,
+insurance_dataset.Previous Claims,
+insurance_dataset.Policy Type,synthetic_insurance_data.Policy_Type
+insurance_dataset.Location,synthetic_insurance_data.Region
+insurance_dataset.Health Score,
+insurance_dataset.Occupation,
+insurance_dataset.Education Level,
+insurance_dataset.Number of Dependents,
+insurance_dataset.Marital Status,synthetic_insurance_data.Marital_Status
+insurance_dataset.Annual Income,
+insurance_dataset.Gender,
+insurance_dataset.Age,synthetic_insurance_data.Age
+insurance_dataset.id,

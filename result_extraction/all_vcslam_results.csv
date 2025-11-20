@@ -1,0 +1,414 @@
+source_column,match_column
+0046.geometry,
+0046.ObjectId,
+0046.Long,0010.Longitude
+0046.Lat,0010.Latitude
+0046.Neighbourhood,
+0046.Hood_ID,
+0046.Status,
+0046.Cost_of_Bike,
+0046.Bike_Colour,
+0046.Bike_Speed,
+0046.Bike_Type,
+0046.Bike_Model,
+0046.Bike_Make,
+0046.Premise_Type,
+0046.Location_Type,
+0046.City,
+0046.Division,
+0046.Occurrence_Time,0010.Date Time
+0046.Occurrence_Day,0010.Date Time
+0046.Occurrence_Month,0010.Date Time
+0046.Occurrence_Year,0010.Date Time
+0046.Occurrence_Date,0010.Date Time
+0046.Primary_Offence,
+0046.event_unique_id,
+0046.Index_,
+0046._id,
+0101.Location,
+0049_comma.Geom,0028.Location
+0101.Longitude,
+0049_comma.ExtractDate,0028.Issue Date
+0101.Latitude,
+0049_comma.FeePaid,
+0101.Census Block Group,
+0049_comma.NumberofEmployees,
+0101.Census Block,
+0049_comma.LocalArea,0028.Business Improvement Area
+0101.Census Tract,
+0049_comma.PostalCode,
+0101.Police District,
+0049_comma.Country,
+0101.Council DIstrict,
+0049_comma.Province,
+0101.Zip Code,
+0049_comma.City,
+0101.State,
+0049_comma.Street,0028.Address
+0101.City,
+0049_comma.House,0028.Address
+0101.Street,
+0049_comma.UnitType,
+0101.Address Number,
+0049_comma.Unit,
+0101.Associate Supt. / Board of Ed. Member 2,
+0049_comma.BusinessSubType,0028.Category
+0101.Associate Supt. / Board of Ed. Member 1,
+0049_comma.BusinessType,0028.Category
+0101.Assistant Principal 4,
+0049_comma.ExpiredDate,0028.Expiry Date
+0101.Assistant Principal 3,
+0049_comma.IssuedDate,0028.Issue Date
+0101.Assistant Principal 2,
+0049_comma.Status,0028.Licence Status
+0101.Assistant Principal 1,
+0049_comma.BusinessTradeName,0028.Trade Name
+0101.Principal,
+0049_comma.BusinessName,0028.Trade Name
+0101.Fax,
+0049_comma.LicenceRevisionNumber,
+0101.Telephone,
+0049_comma.LicenceNumber,0028.Licence Number
+0101.End Time,
+0049_comma.LicenceRSN,
+0101.Start Time,
+0049_comma.FOLDERYEAR,
+0101.Maximum Grade,
+0101.Minimum Grade,
+0101.School Type,0099.CATEGORY
+0101.School Number,
+0101.School,0099.SCHOOL NAME
+0042.geometry,0049_comma.Geom
+0042.Cancellation_Date,
+0042.Issue_Date,0049_comma.FOLDERYEAR
+0042.Permit_Contact_Phone_No_,
+0042.Permit_Address_Ward,0049_comma.FOLDERYEAR
+0042.Permit_Address_Postal_Code,0049_comma.PostalCode
+0042.Permit_Address_Unit,0049_comma.Unit
+0042.Permit_Address_Street_Name,0049_comma.Street
+0042.Permit_Address_Street_No,
+0042.Permit_Holder,0049_comma.BusinessName
+0042.Permit_Class,
+0042.Permit_Sticker_No,
+0042.Permit_No,0049_comma.LicenceNumber
+0042._id,0049_comma.LicenceRSN
+0038.Location,0033.Point Location
+0050.Geo Local Area,0034.NEIGHBOURHOOD
+0038.Longitude,0033.Longitude
+0050.Geom,
+0038.Latitude,0033.Latitude
+0050.TotalUnits,
+0038.Warning Type 2,
+0050.TOTALOUTSTANDING,
+0038.Warning Type 1,
+0050.Street,
+0038.Neighbourhood,0033.Neighbourhood
+0050.StreetNumber,
+0038.Name of Historic Resource,
+0050.DetailURL,
+0038.Construction Completion Year,
+0050.BUSINESSOPERATOR,
+0038.Building Address,
+0018.Summary,
+0018.Officer Disciplined?,
+0018.Disposition,
+0018.On-duty,
+0018.Fatal,
+0018.Type of Weapon,
+0018.Subject Weapon,
+0018.Subject Age,
+0018.Subject DOB,
+0018.Subject Race,
+0018.Subject Gender,
+0018.Number of Rounds,
+0018.Officer Injured,
+0018.Years of SPD Service,
+0018.Officer Race,
+0018.Officer Gender,
+0018.Rank,
+0018.State,
+0018.City,
+0018.Latitude,
+0018.Longitude,
+0018.Blurred Address,
+0018.Date / Time,
+0018.Incident Number,
+"0018.FRB #",
+0001.Location,
+0048.geometry,0037.LOCATION
+0079.LONGITUDE,0080.Longitude
+0001.Pay by Cash,
+0048.STATUS,
+0079.LATITUDE,0080.Latitude
+0001.Pay by Credit card,
+0048.TCDSB_LEVEL,0037.GRADE_LEVEL
+0079.ADDRESS,
+0001.Address,0043.address
+0048.POSTAL_CODE,0037.POSTAL_CODE
+0079.STATUS,
+0001.Coordinates,
+0048.MUNICIPALITY,
+0079.AVAILABLE BIKES,
+0001.Longitude,
+0048.ADDRESS_FULL,0037.ADDRESS
+0079.AVAILABLE BIKE STANDS,
+0001.Latitude,
+0048.SCH_NAME,0037.SCHOOL_NAME
+0079.BIKE STANDS,
+0001.TVM Identifier,
+0048.TCDSB_CODE,
+0079.NAME,
+0048.OBJECTID,0037.AB_SCHOOL_NUMBER
+0079.LAST UPDATED,
+0048._id,
+0079.TIME,
+0079.STATION ID,
+0025.point,
+0089.Location,
+0025.Infrastructure,
+0089.Longitude,
+0025.Traffic District,
+0089.Latitude,
+0025.Activity Type,
+0089.Y-coordinate,
+0025.Description,
+0089.X-coordinate,
+0025.Details,
+0089.Category Description,0068.Crm Cd Desc
+0025.Duration,
+0089.UCR Category,
+0025.Impact,
+0089.Clearance Date,
+0025.To Street,
+0089.Clearance Status,0068.Status
+0025.From Street,
+0089.Census Tract,
+0025.On Street,
+0089.PRA,
+0025.Closure,
+0089.APD District,0068.AREA 
+0025.Status,
+0089.APD Sector,0068.AREA NAME
+0025.Finish Date,
+0089.Council District,
+0025.Start Date,
+0089.Zip Code,
+0025.Date Issued,
+0089.Address,
+0025.Disruption ID,
+0089.Location Type,0068.Premis Desc
+0089.Report Time,
+0089.Report Date,0068.Date Rptd
+0089.Report Date Time,0068.Date Rptd
+0089.Occurred Time,0068.TIME OCC
+0089.Occurred Date,0068.DATE OCC
+0089.Occurred Date Time,0068.DATE OCC
+0089.Family Violence,
+0089.Highest Offense Code,0068.Crm Cd
+0089.Highest Offense Description,0068.Crm Cd Desc
+0089.Incident Number,0068.DR_NO
+0041.Location,0037.LOCATION
+0090.Mapped Location,
+0041.Longitude,0037.LONGITUDE
+0090.OA_CMNT,
+0041.Latitude,0037.LATITUDE
+0090.CMNT_2,
+0041.Sunday Close,
+0090.CPL_CW_2,
+0041.Sunday Open,
+0090.CPL_CW_1,
+0041.Saturday Close,
+0090.CPL_HGT,
+0041.Saturday Open,
+0090.CPL_SEP,
+0041.Friday Close,
+0090.CPL_PLACE,
+0041.Friday Open,
+0090.CPL_PROX,
+0041.Thursday Close,
+0090.CPL_LDG,
+0041.Thursday Open,
+0090.CMNT_1,
+0041.Wednesday Close,
+0090.CPL_AUD,
+0041.Wednesday Open,
+0090.CPL_VIS,
+0041.Tuesday Close,
+0090.CPL_CTRST,
+0041.Tuesday Open,
+0090.CPL_OP,
+0041.Monday Close,
+0090.CPL_FORCE,
+0041.Monday Open,
+0090.CPL_SIZE,
+0041.Free WiFi,
+0090.PED_SIGNAL_PRES,
+0041.Phone Number,0037.PHONE_NUMBER
+0090.EVNT_TYPE,
+0041.Postal Code,0037.POSTAL_CODE
+0090.EVNT_MAP,
+0041.Address,0037.ADDRESS
+0090.EVNT_LON,
+0041.Branch,
+0090.EVNT_LAT,
+0041.Branch ID,
+0090.DATE,
+0090.INSPECTOR,
+0090.QUAD,
+0090.CRST,
+0090.ONST,
+0090.INTERSECTIONID,
+0021.Mapped Location,
+0088.QC_TYPE,
+0021.Longitude,
+0088.TIME_NULL,
+0021.Latitude,
+0088.SAMPLE_REF_NO,
+0021.Description,
+0088.LON_DD_WGS84,
+0021.Type,
+0088.LAT_DD_WGS84,
+0021.Medium,
+0088.DATA_REF_NO,
+0021.Location,
+0088.Location,
+0021.Artist First Name,
+0088.PROJECT,
+0021.Artist Last Name,
+0088.QC_FLAG,
+0021.Title,
+0088.METHOD,
+0088.SAMPLE_SITE_NO,
+0088.SAMPLE_ID,
+0088.FILTER,
+0088.UNIT,
+0088.RESULT,
+0088.PARAMETER,
+0088.PARAM_TYPE,
+0088.MEDIUM,
+0088.SITE_TYPE,
+0088.SITE_NAME,
+0088.SAMPLE_DATE,
+0088.WATERSHED,
+0023.Location1,
+0061.Geo Local Area,
+0091.Company Phone,0092.Company Phone
+0023.Longitude,
+0061.Geom,
+0091.Company Website,0092.Company Website
+0023.Latitude,
+0061.MAPID,
+0091.Real Time Fare,0092.Real Time Fare
+0023.Link,
+0061.RUSH_HR,
+0091.Availability Duration,0092.Availability Duration
+0023.ContractorCompanyName,
+0061.TIMEINEFFE,
+0091.Availability Start Time,0092.Availability Start Time
+0023.OriginalZip,
+0061.INTERSECTN,
+0091.Availability Start Date,0092.Availability Start Date
+0023.OriginalState,
+0061.LOCATION,
+0091.GPS Longitude,0092.GPS Longitude
+0023.OriginalCity,
+0061.CREDITCARD,
+0091.GPS Latitude,0092.GPS Latitude
+0023.OriginalAddress1,
+0061.RATE_MISC,
+0091.SUMD Group,0092.SUMD Group
+0023.StatusCurrent,
+0061.R_SU_6P_10,
+0091.SUMD Type,0092.SUMD Type
+0023.CompletedDate,
+0061.R_SU_9A_6P,
+0091.SUMD ID,0092.SUMD ID
+0023.ExpiresDate,
+0061.R_SA_6P_10,
+0023.IssuedDate,
+0061.R_SA_9A_6P,
+0023.AppliedDate,
+0061.R_MF_6P_10,
+0023.EstProjectCost,
+0061.R_MF_9A_6P,
+0023.Description,0015.Description
+0061.TIME_MISC,
+0023.PermitTypeMapped,0015.PermitTypeMapped
+0061.T_SU_6P_10,
+0023.PermitType,
+0061.T_SU_9A_6P,
+0023.PermitClassMapped,0015.PermitClassMapped
+0061.T_SA_6P_10,
+0023.PermitClass,0015.PermitClass
+0061.T_SA_9A_6P,
+0023.PermitNum,0015.PermitNum
+0061.T_MF_6P_10,
+0061.T_MF_9A_6P,
+0061.TYPE,
+0047.geometry,
+0097.Location,
+0047.BLD_DESC,
+0097.Site ID,
+0047.FLR_ABV_GR,
+0097.Longitude,
+0047.BLD_FORM,
+0097.Latitude,
+0047.SCATTERED,
+0097.Park Name,
+0047.YR_BUILT,
+0097.Council District,
+0047.RGI_UNITS,
+0097.Site,
+0047.MRKT_UNIT,
+0097.Side,
+0047.TTL_RES_UNIT,
+0097.Street,
+0047.PSTL_CODE,
+0097.Address,
+0047.POLICE_DIV,
+0097.Leaf Surface Area (in sq. ft.),
+0047.NGHBRHD_NUM,
+0097.Property Benefits ($),
+0047.DEV_NAME,
+0097.Pollutants Saved (in lbs.),
+0047.DEV_ID,
+0097.Air Quality Benefits ($),
+0047.BLD_ID,
+0097.Therms Saved,
+0047.OBJECTID,
+0097.kWh Saved,
+0047._id,
+0097.Energy Benefits ($),
+0097.CO2 Sequestered (in lbs.),
+0097.CO2 Avoided (in lbs.),
+0097.Greenhouse CO2 Benefits ($),
+0097.Stormwater Gallons Saved,
+0097.Stormwater Benefits ($),
+0097.Total Yearly Eco Benefits ($),
+0097.DBH,
+0097.Common Name,0081.Common Name
+0097.Botanical Name,0081.Scientific Name
+0097.Editing,
+0041.Location,
+0041.Longitude,
+0041.Latitude,
+0041.Sunday Close,
+0041.Sunday Open,
+0041.Saturday Close,
+0041.Saturday Open,
+0041.Friday Close,
+0041.Friday Open,
+0041.Thursday Close,
+0041.Thursday Open,
+0041.Wednesday Close,
+0041.Wednesday Open,
+0041.Tuesday Close,
+0041.Tuesday Open,
+0041.Monday Close,
+0041.Monday Open,
+0041.Free WiFi,
+0041.Phone Number,
+0041.Postal Code,0048.POSTAL_CODE
+0041.Address,0048.ADDRESS_FULL
+0041.Branch,0048.SCH_NAME
+0041.Branch ID,

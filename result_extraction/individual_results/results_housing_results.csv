@@ -1,0 +1,14 @@
+source_column,match_column
+Housing.furnishingstatus,
+Housing.prefarea,
+Housing.parking,
+Housing.airconditioning,
+Housing.hotwaterheating,
+Housing.basement,
+Housing.guestroom,
+Housing.mainroad,
+Housing.stories,USA Housing Dataset.floors
+Housing.bathrooms,USA Housing Dataset.bathrooms
+Housing.bedrooms,USA Housing Dataset.bedrooms
+Housing.area,USA Housing Dataset.sqft_lot
+Housing.price,USA Housing Dataset.price

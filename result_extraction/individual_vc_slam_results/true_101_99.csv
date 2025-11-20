@@ -1,0 +1,30 @@
+source_column,true_match
+0101.Location,
+0101.Longitude,0099.LONGITUDE
+0101.Latitude,0099.LATITUDE
+0101.Census Block Group,
+0101.Census Block,
+0101.Census Tract,
+0101.Police District,
+0101.Council DIstrict,
+0101.Zip Code,
+0101.State,
+0101.City,
+0101.Street,
+0101.Address Number,
+0101.Associate Supt. / Board of Ed. Member 2,
+0101.Associate Supt. / Board of Ed. Member 1,
+0101.Assistant Principal 4,
+0101.Assistant Principal 3,
+0101.Assistant Principal 2,
+0101.Assistant Principal 1,
+0101.Principal,
+0101.Fax,
+0101.Telephone,0099.PHONE
+0101.End Time,
+0101.Start Time,
+0101.Maximum Grade,
+0101.Minimum Grade,
+0101.School Type,0099.CATEGORY
+0101.School Number,
+0101.School,0099.SCHOOL NAME

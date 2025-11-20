@@ -1,0 +1,237 @@
+{
+  "mappings": [
+    {
+      "source": "Cancer_Data.id",
+      "match": null
+    },
+    {
+      "source": "Cancer_Data.diagnosis",
+      "match": null
+    },
+    {
+      "source": "Cancer_Data.radius_mean",
+      "match": "Breast_cancer_dataset.radius_mean"
+    },
+    {
+      "source": "Cancer_Data.texture_mean",
+      "match": "Breast_cancer_dataset.texture_mean"
+    },
+    {
+      "source": "Cancer_Data.perimeter_mean",
+      "match": "Breast_cancer_dataset.perimeter_mean"
+    },
+    {
+      "source": "Cancer_Data.area_mean",
+      "match": null
+    },
+    {
+      "source": "Cancer_Data.smoothness_mean",
+      "match": "Breast_cancer_dataset.smoothness_mean"
+    },
+    {
+      "source": "Cancer_Data.compactness_mean",
+      "match": "Breast_cancer_dataset.compactness_mean"
+    },
+    {
+      "source": "Cancer_Data.concavity_mean",
+      "match": "Breast_cancer_dataset.concavity_mean"
+    },
+    {
+      "source": "Cancer_Data.concave points_mean",
+      "match": "Breast_cancer_dataset.concave points_mean"
+    },
+    {
+      "source": "Cancer_Data.symmetry_mean",
+      "match": "Breast_cancer_dataset.symmetry_mean"
+    },
+    {
+      "source": "Cancer_Data.fractal_dimension_mean",
+      "match": "Breast_cancer_dataset.fractal_dimension_mean"
+    },
+    {
+      "source": "Cancer_Data.radius_se",
+      "match": null
+    },
+    {
+      "source": "Cancer_Data.texture_se",
+      "match": "Breast_cancer_dataset.texture_se"
+    },
+    {
+      "source": "Cancer_Data.perimeter_se",
+      "match": "Breast_cancer_dataset.perimeter_se"
+    },
+    {
+      "source": "Cancer_Data.area_se",
+      "match": null
+    },
+    {
+      "source": "Cancer_Data.smoothness_se",
+      "match": "Breast_cancer_dataset.smoothness_se"
+    },
+    {
+      "source": "Cancer_Data.compactness_se",
+      "match": "Breast_cancer_dataset.compactness_se"
+    },
+    {
+      "source": "Cancer_Data.concavity_se",
+      "match": "Breast_cancer_dataset.concavity_se"
+    },
+    {
+      "source": "Cancer_Data.concave points_se",
+      "match": "Breast_cancer_dataset.concave points_se"
+    },
+    {
+      "source": "Cancer_Data.symmetry_se",
+      "match": "Breast_cancer_dataset.symmetry_se"
+    },
+    {
+      "source": "Cancer_Data.fractal_dimension_se",
+      "match": "Breast_cancer_dataset.fractal_dimension_se"
+    },
+    {
+      "source": "Cancer_Data.radius_worst",
+      "match": "Breast_cancer_dataset.radius_worst"
+    },
+    {
+      "source": "Cancer_Data.texture_worst",
+      "match": "Breast_cancer_dataset.texture_worst"
+    },
+    {
+      "source": "Cancer_Data.perimeter_worst",
+      "match": "Breast_cancer_dataset.perimeter_worst"
+    },
+    {
+      "source": "Cancer_Data.area_worst",
+      "match": "Breast_cancer_dataset.area_worst"
+    },
+    {
+      "source": "Cancer_Data.smoothness_worst",
+      "match": "Breast_cancer_dataset.smoothness_worst"
+    },
+    {
+      "source": "Cancer_Data.compactness_worst",
+      "match": "Breast_cancer_dataset.compactness_worst"
+    },
+    {
+      "source": "Cancer_Data.concavity_worst",
+      "match": "Breast_cancer_dataset.concavity_worst"
+    },
+    {
+      "source": "Cancer_Data.concave points_worst",
+      "match": "Breast_cancer_dataset.concave points_worst"
+    },
+    {
+      "source": "Cancer_Data.symmetry_worst",
+      "match": "Breast_cancer_dataset.symmetry_worst"
+    },
+    {
+      "source": "Cancer_Data.fractal_dimension_worst",
+      "match": "Breast_cancer_dataset.fractal_dimension_worst"
+    },
+    {
+      "source": "Cancer_Data.Unnamed: 32",
+      "match": null
+    }
+  ],
+  "details": {
+    "Cancer_Data.id": {
+      "mapping": null
+    },
+    "Cancer_Data.diagnosis": {
+      "mapping": null
+    },
+    "Cancer_Data.radius_mean": {
+      "mapping": "Breast_cancer_dataset.radius_mean"
+    },
+    "Cancer_Data.texture_mean": {
+      "mapping": "Breast_cancer_dataset.texture_mean"
+    },
+    "Cancer_Data.perimeter_mean": {
+      "mapping": "Breast_cancer_dataset.perimeter_mean"
+    },
+    "Cancer_Data.area_mean": {
+      "mapping": null
+    },
+    "Cancer_Data.smoothness_mean": {
+      "mapping": "Breast_cancer_dataset.smoothness_mean"
+    },
+    "Cancer_Data.compactness_mean": {
+      "mapping": "Breast_cancer_dataset.compactness_mean"
+    },
+    "Cancer_Data.concavity_mean": {
+      "mapping": "Breast_cancer_dataset.concavity_mean"
+    },
+    "Cancer_Data.concave points_mean": {
+      "mapping": "Breast_cancer_dataset.concave points_mean"
+    },
+    "Cancer_Data.symmetry_mean": {
+      "mapping": "Breast_cancer_dataset.symmetry_mean"
+    },
+    "Cancer_Data.fractal_dimension_mean": {
+      "mapping": "Breast_cancer_dataset.fractal_dimension_mean"
+    },
+    "Cancer_Data.radius_se": {
+      "mapping": null
+    },
+    "Cancer_Data.texture_se": {
+      "mapping": "Breast_cancer_dataset.texture_se"
+    },
+    "Cancer_Data.perimeter_se": {
+      "mapping": "Breast_cancer_dataset.perimeter_se"
+    },
+    "Cancer_Data.area_se": {
+      "mapping": null
+    },
+    "Cancer_Data.smoothness_se": {
+      "mapping": "Breast_cancer_dataset.smoothness_se"
+    },
+    "Cancer_Data.compactness_se": {
+      "mapping": "Breast_cancer_dataset.compactness_se"
+    },
+    "Cancer_Data.concavity_se": {
+      "mapping": "Breast_cancer_dataset.concavity_se"
+    },
+    "Cancer_Data.concave points_se": {
+      "mapping": "Breast_cancer_dataset.concave points_se"
+    },
+    "Cancer_Data.symmetry_se": {
+      "mapping": "Breast_cancer_dataset.symmetry_se"
+    },
+    "Cancer_Data.fractal_dimension_se": {
+      "mapping": "Breast_cancer_dataset.fractal_dimension_se"
+    },
+    "Cancer_Data.radius_worst": {
+      "mapping": "Breast_cancer_dataset.radius_worst"
+    },
+    "Cancer_Data.texture_worst": {
+      "mapping": "Breast_cancer_dataset.texture_worst"
+    },
+    "Cancer_Data.perimeter_worst": {
+      "mapping": "Breast_cancer_dataset.perimeter_worst"
+    },
+    "Cancer_Data.area_worst": {
+      "mapping": "Breast_cancer_dataset.area_worst"
+    },
+    "Cancer_Data.smoothness_worst": {
+      "mapping": "Breast_cancer_dataset.smoothness_worst"
+    },
+    "Cancer_Data.compactness_worst": {
+      "mapping": "Breast_cancer_dataset.compactness_worst"
+    },
+    "Cancer_Data.concavity_worst": {
+      "mapping": "Breast_cancer_dataset.concavity_worst"
+    },
+    "Cancer_Data.concave points_worst": {
+      "mapping": "Breast_cancer_dataset.concave points_worst"
+    },
+    "Cancer_Data.symmetry_worst": {
+      "mapping": "Breast_cancer_dataset.symmetry_worst"
+    },
+    "Cancer_Data.fractal_dimension_worst": {
+      "mapping": "Breast_cancer_dataset.fractal_dimension_worst"
+    },
+    "Cancer_Data.Unnamed: 32": {
+      "mapping": null
+    }
+  }
+}

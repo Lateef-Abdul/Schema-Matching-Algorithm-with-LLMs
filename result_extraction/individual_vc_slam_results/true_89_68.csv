@@ -1,0 +1,28 @@
+source_column,true_match
+0089.Location,
+0089.Longitude,0068.LON
+0089.Latitude,0068.LAT
+0089.Y-coordinate,
+0089.X-coordinate,
+0089.Category Description,0068.Crm Cd Desc
+0089.UCR Category,
+0089.Clearance Date,
+0089.Clearance Status,0068.Status
+0089.Census Tract,
+0089.PRA,
+0089.APD District, 
+0089.APD Sector,
+0089.Council District,
+0089.Zip Code,
+0089.Address,0068.LOCATION
+0089.Location Type,0068.Premis Desc
+0089.Report Time,
+0089.Report Date,0068.Date Rptd
+0089.Report Date Time,0068.Date Rptd
+0089.Occurred Time,0068.TIME OCC
+0089.Occurred Date,0068.DATE OCC
+0089.Occurred Date Time,
+0089.Family Violence,
+0089.Highest Offense Code,0068.Crm Cd
+0089.Highest Offense Description,0068.Crm Cd Desc
+0089.Incident Number,0068.DR_NO

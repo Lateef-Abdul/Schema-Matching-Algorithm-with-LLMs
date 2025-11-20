@@ -1,0 +1,199 @@
+source_column,match_column
+Cancelled_Diverted_2023.Delay_LastAircraft,
+Cancelled_Diverted_2023.Delay_Security,
+Cancelled_Diverted_2023.Delay_NAS,
+Cancelled_Diverted_2023.Delay_Weather,
+Cancelled_Diverted_2023.Delay_Carrier,
+Cancelled_Diverted_2023.Distance_type,
+Cancelled_Diverted_2023.Flight_Duration,
+Cancelled_Diverted_2023.Arr_Delay_Type,
+Cancelled_Diverted_2023.Arr_Delay,
+Cancelled_Diverted_2023.Arr_CityName,
+Cancelled_Diverted_2023.Arr_Airport,
+Cancelled_Diverted_2023.Dep_Delay_Type,
+Cancelled_Diverted_2023.Dep_Delay_Tag,
+Cancelled_Diverted_2023.Dep_Delay,
+Cancelled_Diverted_2023.DepTime_label,
+Cancelled_Diverted_2023.Dep_CityName,
+Cancelled_Diverted_2023.Dep_Airport,
+Cancelled_Diverted_2023.Diverted,flight_delays_sample1000.Diverted
+Cancelled_Diverted_2023.Cancelled,flight_delays_sample1000.Cancelled
+Cancelled_Diverted_2023.Tail_Number,flight_delays_sample1000.TailNumber
+Cancelled_Diverted_2023.Airline,flight_delays_sample1000.Airline
+Cancelled_Diverted_2023.Day_Of_Week,
+Cancelled_Diverted_2023.FlightDate,
+barnes_and_noble_1.pages,barnes_and_noble.Pages
+barnes_and_noble_1.series,barnes_and_noble.Series
+barnes_and_noble_1.language,barnes_and_noble.Language
+barnes_and_noble_1.isbn13,barnes_and_noble.ISBN13
+barnes_and_noble_1.publisher,barnes_and_noble.Publisher
+barnes_and_noble_1.edition,barnes_and_noble.Edition
+barnes_and_noble_1.pubday,
+barnes_and_noble_1.pubmonth,
+barnes_and_noble_1.pubyear,
+barnes_and_noble_1.authors,barnes_and_noble.Author1
+barnes_and_noble_1.title,barnes_and_noble.Title
+barnes_and_noble_1.id,barnes_and_noble.ID
+Housing.furnishingstatus,
+Housing.prefarea,
+Housing.parking,
+Housing.airconditioning,
+Housing.hotwaterheating,
+Housing.basement,
+Housing.guestroom,
+Housing.mainroad,
+Housing.stories,USA Housing Dataset.floors
+Housing.bathrooms,USA Housing Dataset.bathrooms
+Housing.bedrooms,USA Housing Dataset.bedrooms
+Housing.area,USA Housing Dataset.sqft_lot
+Housing.price,USA Housing Dataset.price
+Airbnb Listings.availability_365,
+Airbnb Listings.calculated_host_listings_count,
+Airbnb Listings.reviews_per_month,spring23_final_train_with_price.reviews_per_month
+Airbnb Listings.last_review,spring23_final_train_with_price.last_review
+Airbnb Listings.number_of_reviews,spring23_final_train_with_price.number_of_reviews
+Airbnb Listings.minimum_nights,spring23_final_train_with_price.minimum_nights
+Airbnb Listings.price,spring23_final_train_with_price.price
+Airbnb Listings.room_type,spring23_final_train_with_price.room_type
+Airbnb Listings.longitude,spring23_final_train_with_price.longitude
+Airbnb Listings.latitude,spring23_final_train_with_price.latitude
+Airbnb Listings.neighbourhood,spring23_final_train_with_price.neighbourhood
+Airbnb Listings.neighbourhood_group,
+Airbnb Listings.host_name,spring23_final_train_with_price.host_name
+Airbnb Listings.host_id,spring23_final_train_with_price.host_id
+Airbnb Listings.name,spring23_final_train_with_price.name
+Airbnb Listings.id,spring23_final_train_with_price.id
+Airbnb Listings.index,
+cwurData.year,
+cwurData.score,
+cwurData.patents,
+cwurData.broad_impact,
+cwurData.citations,
+cwurData.influence,
+cwurData.publications,
+cwurData.quality_of_faculty,
+cwurData.alumni_employment,
+cwurData.quality_of_education,
+cwurData.national_rank,
+cwurData.country,qs-world-rankings-2025.Location Full
+cwurData.institution,qs-world-rankings-2025.Institution Name
+cwurData.world_rank,
+times-square-food-beverage-locations.Location 1,
+times-square-food-beverage-locations.NTA,newyork_dohmh1000.NTA
+times-square-food-beverage-locations.BBL,newyork_dohmh1000.BBL
+times-square-food-beverage-locations.BIN,newyork_dohmh1000.BIN
+times-square-food-beverage-locations.Census Tract,newyork_dohmh1000.Census Tract
+times-square-food-beverage-locations.Community Council ,newyork_dohmh1000.Council District
+times-square-food-beverage-locations.Community Board,newyork_dohmh1000.Community Board
+times-square-food-beverage-locations.Longitude,newyork_dohmh1000.Longitude
+times-square-food-beverage-locations.Latitude,newyork_dohmh1000.Latitude
+times-square-food-beverage-locations.Postcode,newyork_dohmh1000.ZIPCODE
+times-square-food-beverage-locations.Borough,
+times-square-food-beverage-locations.Website,
+times-square-food-beverage-locations.Phone,newyork_dohmh1000.PHONE
+times-square-food-beverage-locations.Address,
+times-square-food-beverage-locations.Sub Subindustry,newyork_dohmh1000.CUISINE DESCRIPTION
+times-square-food-beverage-locations.Subindustry,
+times-square-food-beverage-locations.Company Name,newyork_dohmh1000.DBA
+insurance_dataset.Premium Amount,synthetic_insurance_data.Premium_Amount
+insurance_dataset.Property Type,
+insurance_dataset.Exercise Frequency,
+insurance_dataset.Smoking Status,
+insurance_dataset.Customer Feedback,
+insurance_dataset.Policy Start Date,
+insurance_dataset.Insurance Duration,synthetic_insurance_data.Prior_Insurance
+insurance_dataset.Credit Score,synthetic_insurance_data.Credit_Score
+insurance_dataset.Vehicle Age,
+insurance_dataset.Previous Claims,synthetic_insurance_data.Claims_Frequency
+insurance_dataset.Policy Type,synthetic_insurance_data.Policy_Type
+insurance_dataset.Location,synthetic_insurance_data.Region
+insurance_dataset.Health Score,
+insurance_dataset.Occupation,
+insurance_dataset.Education Level,
+insurance_dataset.Number of Dependents,
+insurance_dataset.Marital Status,synthetic_insurance_data.Marital_Status
+insurance_dataset.Annual Income,
+insurance_dataset.Gender,
+insurance_dataset.Age,synthetic_insurance_data.Age
+insurance_dataset.id,
+Mobiles Dataset (2025).Launched Year,
+Mobiles Dataset (2025).Launched Price (Dubai),
+Mobiles Dataset (2025).Launched Price (USA),
+Mobiles Dataset (2025).Launched Price (China),
+Mobiles Dataset (2025).Launched Price (India),ndtv_data_final.Price
+Mobiles Dataset (2025).Launched Price (Pakistan),
+Mobiles Dataset (2025).Screen Size,ndtv_data_final.Screen size (inches)
+Mobiles Dataset (2025).Battery Capacity,ndtv_data_final.Battery capacity (mAh)
+Mobiles Dataset (2025).Processor,
+Mobiles Dataset (2025).Back Camera,ndtv_data_final.Rear camera
+Mobiles Dataset (2025).Front Camera,ndtv_data_final.Front camera
+Mobiles Dataset (2025).RAM,
+Mobiles Dataset (2025).Mobile Weight,
+Mobiles Dataset (2025).Model Name,ndtv_data_final.Name
+Mobiles Dataset (2025).Company Name,ndtv_data_final.Brand
+Cancer_Data.Unnamed: 32,
+Cancer_Data.fractal_dimension_worst,Breast_cancer_dataset.fractal_dimension_worst
+Cancer_Data.symmetry_worst,Breast_cancer_dataset.symmetry_worst
+Cancer_Data.concave points_worst,Breast_cancer_dataset.concave points_worst
+Cancer_Data.concavity_worst,Breast_cancer_dataset.concavity_worst
+Cancer_Data.compactness_worst,Breast_cancer_dataset.compactness_worst
+Cancer_Data.smoothness_worst,Breast_cancer_dataset.smoothness_worst
+Cancer_Data.area_worst,Breast_cancer_dataset.area_worst
+Cancer_Data.perimeter_worst,Breast_cancer_dataset.perimeter_worst
+Cancer_Data.texture_worst,Breast_cancer_dataset.texture_worst
+Cancer_Data.radius_worst,Breast_cancer_dataset.radius_worst
+Cancer_Data.fractal_dimension_se,Breast_cancer_dataset.fractal_dimension_se
+Cancer_Data.symmetry_se,Breast_cancer_dataset.symmetry_se
+Cancer_Data.concave points_se,Breast_cancer_dataset.concave points_se
+Cancer_Data.concavity_se,Breast_cancer_dataset.concavity_se
+Cancer_Data.compactness_se,Breast_cancer_dataset.compactness_se
+Cancer_Data.smoothness_se,Breast_cancer_dataset.smoothness_se
+Cancer_Data.area_se,
+Cancer_Data.perimeter_se,Breast_cancer_dataset.perimeter_se
+Cancer_Data.texture_se,Breast_cancer_dataset.texture_se
+Cancer_Data.radius_se,
+Cancer_Data.fractal_dimension_mean,Breast_cancer_dataset.fractal_dimension_mean
+Cancer_Data.symmetry_mean,Breast_cancer_dataset.symmetry_mean
+Cancer_Data.concave points_mean,Breast_cancer_dataset.concave points_mean
+Cancer_Data.concavity_mean,Breast_cancer_dataset.concavity_mean
+Cancer_Data.compactness_mean,Breast_cancer_dataset.compactness_mean
+Cancer_Data.smoothness_mean,Breast_cancer_dataset.smoothness_mean
+Cancer_Data.area_mean,
+Cancer_Data.perimeter_mean,Breast_cancer_dataset.perimeter_mean
+Cancer_Data.texture_mean,Breast_cancer_dataset.texture_mean
+Cancer_Data.radius_mean,Breast_cancer_dataset.radius_mean
+Cancer_Data.diagnosis,
+Cancer_Data.id,
+student_data.G3,
+student_data.G2,
+student_data.G1,
+student_data.absences,
+student_data.health,
+student_data.Walc,
+student_data.Dalc,
+student_data.goout,
+student_data.freetime,
+student_data.famrel,
+student_data.romantic,
+student_data.internet,student_info.internet_access
+student_data.higher,
+student_data.nursery,
+student_data.activities,student_info.extra_activities
+student_data.paid,
+student_data.famsup,
+student_data.schoolsup,
+student_data.failures,
+student_data.studytime,student_info.study_hours
+student_data.traveltime,
+student_data.guardian,
+student_data.reason,
+student_data.Fjob,
+student_data.Mjob,
+student_data.Fedu,
+student_data.Medu,
+student_data.Pstatus,
+student_data.famsize,
+student_data.address,
+student_data.age,student_info.age
+student_data.sex,student_info.gender
+student_data.school,

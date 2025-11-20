@@ -1,0 +1,18 @@
+source_column,true_match
+times-square-food-beverage-locations.Location 1,
+times-square-food-beverage-locations.NTA,newyork_dohmh1000.NTA
+times-square-food-beverage-locations.BBL,newyork_dohmh1000.BBL
+times-square-food-beverage-locations.BIN,newyork_dohmh1000.BIN
+times-square-food-beverage-locations.Census Tract,newyork_dohmh1000.Census Tract
+times-square-food-beverage-locations.Community Council ,newyork_dohmh1000.Council District
+times-square-food-beverage-locations.Community Board,newyork_dohmh1000.Community Board
+times-square-food-beverage-locations.Longitude,newyork_dohmh1000.Longitude
+times-square-food-beverage-locations.Latitude,newyork_dohmh1000.Latitude
+times-square-food-beverage-locations.Postcode,newyork_dohmh1000.ZIPCODE
+times-square-food-beverage-locations.Borough,
+times-square-food-beverage-locations.Website,
+times-square-food-beverage-locations.Phone,newyork_dohmh1000.PHONE
+times-square-food-beverage-locations.Address,
+times-square-food-beverage-locations.Sub Subindustry,newyork_dohmh1000.CUISINE DESCRIPTION
+times-square-food-beverage-locations.Subindustry,
+times-square-food-beverage-locations.Company Name,newyork_dohmh1000.DBA

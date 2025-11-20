@@ -1,0 +1,25 @@
+source_column,true_match
+0049_comma.Geom,0028.Location
+0049_comma.ExtractDate,
+0049_comma.FeePaid,
+0049_comma.NumberofEmployees,
+0049_comma.LocalArea,0028.Business Improvement Area
+0049_comma.PostalCode,
+0049_comma.Country,
+0049_comma.Province,
+0049_comma.City,
+0049_comma.Street,
+0049_comma.House,
+0049_comma.UnitType,
+0049_comma.Unit,
+0049_comma.BusinessSubType,0028.Category
+0049_comma.BusinessType,
+0049_comma.ExpiredDate,0028.Expiry Date
+0049_comma.IssuedDate,0028.Issue Date
+0049_comma.Status,0028.Licence Status
+0049_comma.BusinessTradeName,0028.Trade Name
+0049_comma.BusinessName,
+0049_comma.LicenceRevisionNumber,
+0049_comma.LicenceNumber,0028.Licence Number
+0049_comma.LicenceRSN,
+0049_comma.FOLDERYEAR,

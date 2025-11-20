@@ -1,0 +1,18 @@
+source_column,true_match
+0025.point,0027.Location
+0025.Infrastructure,
+0025.Traffic District,
+0025.Activity Type,
+0025.Description,
+0025.Details,
+0025.Duration,
+0025.Impact,
+0025.To Street,
+0025.From Street,
+0025.On Street,
+0025.Closure,
+0025.Status,0027.Street Cleaning Status
+0025.Finish Date,
+0025.Start Date,0027.Planned Start Date
+0025.Date Issued,
+0025.Disruption ID,
