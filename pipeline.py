@@ -12,6 +12,7 @@ import hashlib
 import math
 import argparse
 from collections import defaultdict, Counter
+#import pdb
 
 import numpy as np
 import pandas as pd
@@ -20,7 +21,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse import hstack, csr_matrix
 from sklearn.neighbors import NearestNeighbors
 
-# OpenAI client (new SDK style used in your original script)
 from openai import OpenAI
 from dotenv import load_dotenv
 load_dotenv()  # load environment variables from .env if present
@@ -250,89 +250,6 @@ def blocking_candidates(source_meta, target_meta, contexts, lex_index, sem_index
     filtered = filtered[:k_final]
     return filtered, q
 
-def build_llm_payload(source_meta, candidates, target_meta, signals, K):
-    # keep this for compatibility; returns a per-source compact payload
-    c = []
-    for i, sc, lx, se, jl in candidates[:K]:
-        m = target_meta[i]
-        c.append({
-            "table": m["table"],
-            "field": m["field"],
-            "type": m["coarse_type"],
-            "neighbors": m["neighbors"],
-            "primary_key": False,
-            "samples": m["samples"][:3],
-            "signals": {"tfidf": round(lx, 3), "jaccard": round(jl, 3), "embed_cos": round(se, 3)}
-        })
-    payload = {
-        "source": {
-            "table": source_meta["table"],
-            "field": source_meta["field"],
-            "type": source_meta["coarse_type"],
-            "neighbors": source_meta["neighbors"],
-            "primary_key": False,
-            "samples": source_meta["samples"][:3]
-        },
-        "candidates": c
-    }
-    return payload
-
-# Original single-source LLM scorer (kept for reference)
-def llm_score(payload, model="gpt-4.1-mini", temperature=0.1, max_retries=1):
-    sys = "You are a schema matching assistant. You must score relationships between one source field and a shortlist of K target fields. Use names, types, neighbors, and value snippets to infer meaning. Return only valid JSON matching the schema in the Output section. Do not add explanations."
-    guide = """[Task]
-Given one source field S and K candidate target fields T1..Tk, assign calibrated probabilities in [0,1] for four mutually nonexclusive relations per candidate:
-- equivalent
-- source_subset_of_target
-- target_subset_of_source
-- incompatible
-Ensure probabilities per candidate sum to ≤ 1.0; leave leftover mass for uncertainty. Calibrate realistically.
-
-[Output JSON schema]
-{
-  "source": {"table": str, "field": str},
-  "scores": [
-    {
-      "table": str,
-      "field": str,
-      "equivalent": float,
-      "source_subset_of_target": float,
-      "target_subset_of_source": float,
-      "incompatible": float,
-      "rationale_tokens": [str, ...],
-      "flags": {"type_conflict": bool, "context_mismatch": bool, "locale_mismatch": bool}
-    }
-  ]
-}
-
-[Few-shot]
-Source: field=ship_postal_code; neighbors=[ship_city, ship_country]
-Candidate: customers.billing_zip; neighbors=[billing_city, country_code]
-Expected: {"equivalent":0.05,"incompatible":0.80}
-
-Source: field=ship_postal_code; neighbors=[ship_city, ship_country]
-Candidate: shipping.delivery_postcode; neighbors=[delivery_city, delivery_country]
-Expected: {"equivalent":0.85,"incompatible":0.05}
-"""
-    user = json.dumps({"instructions": guide, "payload": payload})
-    for _ in range(max_retries + 1):
-        r = client.chat.completions.create(model=model, temperature=temperature,
-                                           messages=[{"role": "system", "content": sys}, {"role": "user", "content": user}],
-                                           response_format={"type": "json_object"})
-        try:
-            obj = json.loads(r.choices[0].message.content)
-            if "scores" in obj: return obj
-        except Exception:
-            continue
-    # fallback heuristics
-    S = payload["source"]; scores = []
-    for c in payload["candidates"]:
-        base = max(c["signals"]["tfidf"], c["signals"]["embed_cos"])
-        eq = float(np.clip(base, 0, 0.95))
-        inc = float(np.clip(1.0 - eq, 0, 0.95))
-        scores.append({"table": c["table"], "field": c["field"], "equivalent": eq, "source_subset_of_target": 0.0, "target_subset_of_source": 0.0, "incompatible": inc, "rationale_tokens": ["fallback"], "flags": {"type_conflict": False, "context_mismatch": False, "locale_mismatch": False}})
-    return {"source": {"table": S["table"], "field": S["field"]}, "scores": scores}
-
 def edge_score(equivalent, s_subset, t_subset, incompatible, flags, weq=1.0, wsub=0.5, lam=0.2):
     pen = 0.0
     if flags.get("type_conflict"): pen += 0.15
@@ -355,6 +272,7 @@ def decide_greedy(source_key, llm_obj, tau=0.6):
     return {source_key: chosen[1]}, edges
 
 
+
 def build_global_llm_payload(sources_with_cands, target_meta, K=30):
     """
     sources_with_cands: list of dicts {"source_meta": m, "candidates": [(idx, score, lx, se, jl), ...], "query": q}
@@ -375,13 +293,97 @@ def build_global_llm_payload(sources_with_cands, target_meta, K=30):
                 "neighbors": m["neighbors"],
                 "primary_key": False,
                 "samples": m["samples"][:3],
+                "locale_tags": m["locale_tags"],
                 "signals": {"tfidf": round(lx, 3), "jaccard": round(jl, 3), "embed_cos": round(se, 3)}
             })
         sources_payload.append({
-            "source": {"table": sm["table"], "field": sm["field"], "type": sm["coarse_type"], "neighbors": sm["neighbors"], "samples": sm["samples"][:3]},
+            "source": {"table": sm["table"], "field": sm["field"], "type": sm["coarse_type"], "neighbors": sm["neighbors"], "samples": sm["samples"][:3], "locale_tags": sm["locale_tags"]},
             "candidates": c
         })
     return {"sources": sources_payload}
+
+def compact_payload(full_payload):
+    def normalize_name(name):
+        return name.lower().replace('_', ' ').replace('-', ' ').strip()
+
+    compact = {
+        "schema_context": {"sources_summary": {}, "targets_summary": {}},
+        "matches": []
+    }
+
+    # --- Build summaries (unchanged) ---
+    for src in full_payload["sources"]:
+        # 1. Populate Sources Summary
+        src_table = src["source"]["table"]
+        compact["schema_context"]["sources_summary"].setdefault(src_table, set()).add(src["source"]["field"])
+        
+        # 2. Populate Targets Summary (FIXED)
+        for cand in src["candidates"]:
+            tgt_table = cand["table"]
+            tgt_field = cand["field"]
+            # This line was missing the .add(tgt_field) part
+            compact["schema_context"]["targets_summary"].setdefault(tgt_table, set()).add(tgt_field)
+
+    # Convert sets to lists for JSON
+    compact["schema_context"]["sources_summary"] = {
+        k: sorted(list(v)) for k, v in compact["schema_context"]["sources_summary"].items()
+    }
+    compact["schema_context"]["targets_summary"] = {
+        k: sorted(list(v)) for k, v in compact["schema_context"]["targets_summary"].items()
+    }
+    # -----------------------------------
+
+    for src in full_payload["sources"]:
+        src_info = src["source"]
+        
+        # 1. NEIGHBORS: Trim and normalize
+        neighbors = [normalize_name(n.split()[-1]) for n in src_info.get("neighbors", [])[:5]]
+        
+        # 2. SAMPLES: Get up to 3 non-empty samples
+        src_samples_raw = src_info.get("samples", [])
+        src_samples = [s for s in src_samples_raw if s][:3]
+
+        # 3. LOCALE TAGS: Fetch if available
+        src_locale_tags = src_info.get("locale_tags", [])
+        #print("src_locale_tags:", src_locale_tags)
+        #breakpoint()
+
+        src_entry = {
+            "table": src_info["table"],
+            "field": src_info["field"],
+            "type": src_info.get("type", ""),
+            "neighbors": neighbors,
+            "samples": src_samples,          # Now a list of up to 3
+            "locale_tags": src_locale_tags   # Added field
+        }
+
+        candidates = []
+        for c in src["candidates"]:
+            # 4. SIMILARITIES: Don't average, keep the specific signals
+            raw_signals = c.get("signals", {})
+            # Round values for cleaner JSON, keep the keys (e.g., name, value, context)
+            similarities = {k: round(v, 3) for k, v in raw_signals.items()}
+
+            # 5. CANDIDATE SAMPLES: Get up to 3
+            cand_samples_raw = c.get("samples", [])
+            cand_samples = [s for s in cand_samples_raw if s][:3]
+            
+            # 6. CANDIDATE LOCALE TAGS
+            cand_locale_tags = c.get("locale_tags", [])
+
+            candidates.append({
+                "table": c["table"],
+                "field": c["field"],
+                "type": c.get("type", ""),
+                "samples": cand_samples,       # Now a list of up to 3
+                "similarities": similarities,  # Now a dict of individual scores
+                "locale_tags": cand_locale_tags # Added field
+            })
+
+        compact["matches"].append({"source": src_entry, "candidates": candidates})
+
+    return compact
+
 
 def llm_score_global(payload, model , temperature=0.1, max_retries=1):
     """
@@ -534,7 +536,10 @@ def map_semantics_to_metadata(triples, metadata):
 def load_dataset(path, name=None):
     ext = os.path.splitext(path)[-1].lower()
     if ext == ".csv":
-        df = pd.read_csv(path)
+        try:
+            df = pd.read_csv(path)
+        except UnicodeDecodeError:
+            df = pd.read_csv(path, encoding="latin1")
     elif ext == ".json":
         df = pd.read_json(path)
     else:
@@ -642,9 +647,12 @@ def main():
 
     # Build single global payload and call LLM once
     payload = build_global_llm_payload(sources_with_cands, metadata, K=args.top_k_llm)
+    
     print("Calling LLM with a single payload containing all sources and their shortlists...")
 
-    llm_obj = llm_score_global(payload, model="gpt-4.1", temperature=0.1, max_retries=1)
+    compact_data = compact_payload(payload)
+
+    llm_obj = llm_score_global(compact_data, model="gpt-4.1", temperature=0.1, max_retries=1)
 
     # llm_obj is {"results": [ { "source": {...}, "scores": [...] }, ... ] } (fallback ensures same shape)
     results = {}

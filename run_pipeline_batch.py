@@ -8,19 +8,29 @@ from pathlib import Path
 
 # Define file pairs
 FILE_PAIRS = [
-    (97, 81),
-    (97, 52),
-    (89, 68),
+    (1, 43),
+    (23, 15),
+    (25, 27),
+    (38, 33),
+    (41, 37),
+    (41, 48),
+    (42, 49),
+    (46, 10),
+    (47, 50),
+    (48, 37),
+    (49, 28),
+    (50, 34),
     (79, 80),
-    (61, 71),
-    (90, 98),
-    (88, 59)
+    (89, 68),
+    (91, 92),
+    (97, 81),
+    (101, 99)
 ]
 
 # Base paths
 CSV_DIR = Path("datasets/rawdata_csv_samples")
-#SEMANTIC_DIR = Path("datasets/semantic_models")
-RESULTS_DIR = Path("results")
+SEMANTIC_DIR = Path("datasets/semantic_models")
+RESULTS_DIR = Path("results/new_results")
 
 def run_pipeline(src_id, tgt_id):
     """Run pipeline for a specific file pair"""
@@ -30,13 +40,13 @@ def run_pipeline(src_id, tgt_id):
     
     # Build command
     cmd = [
-        "python3", "pipeline_v2.py",
+        "python3", "pipeline_test.py",
         "--sources", str(CSV_DIR / f"{src}.csv"),
         "--targets", str(CSV_DIR / f"{tgt}.csv"),
-        #"--semantic", 
-        #str(SEMANTIC_DIR / f"{src}.ttl"),
-        #str(SEMANTIC_DIR / f"{tgt}.ttl"),
-        "--out", str(RESULTS_DIR / f"results_{src_id}_{tgt_id}.json")
+        "--semantic", 
+        str(SEMANTIC_DIR / f"{src}.ttl"),
+        str(SEMANTIC_DIR / f"{tgt}.ttl"),
+        "--out", str(RESULTS_DIR / f"results_{src_id}_{tgt_id}_sem.json")
     ]
     
     print(f"\n{'='*60}")
