@@ -1,7 +1,7 @@
 # LLM-Enhanced Schema Matching Pipeline
 A robust CLI tool for automated schema matching that combines traditional blocking techniques (TF-IDF, Jaccard) with semantic search (Embeddings) and LLM reasoning (GPT-4) to align columns across disparate datasets.
 
-## 🚀 Features
+##  Features
 - **Hybrid Blocking**: Uses both Lexical (TF-IDF) and Semantic (OpenAI Embeddings) search to generate candidate shortlists.
 
 - **LLM Verification**: Sends compact, context-aware payloads (names, samples, neighbors, types) to an LLM for final decision-making.
@@ -12,16 +12,17 @@ A robust CLI tool for automated schema matching that combines traditional blocki
 
 - **Format Support**: Native support for CSV and JSON datasets.
 
+## Implemenation
 
-1. 📋 Prerequisites
-   ```bash
+1. Prerequisites
+```bash
    Python 3.8+
    An OpenAI API Key
-   ```
-2. 🛠️ Installation
+```
+2. Installation
    Clone the repository:
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Lateef-Abdul/Schema-Matching-Algorithm-with-LLMs
    cd <your-repo-folder>
 ```
 3. Install dependencies:
@@ -34,11 +35,11 @@ A robust CLI tool for automated schema matching that combines traditional blocki
 ```bash
    OPENAI_API_KEY=sk-proj-your-api-key-here...
 ```
-💻 Usage
+## Usage:
 Basic Usage
 Match columns from a source CSV to a target CSV:
 ```bash
-   python matcher.py \
+   python pipeline.py \
    --sources ./data/source_permits.csv \
    --targets ./data/target_database.csv \
    --out results.json
@@ -46,7 +47,7 @@ Match columns from a source CSV to a target CSV:
 Advanced Usage
 Include a semantic knowledge graph (.ttl) and adjust blocking thresholds:
 ```bash
-   python matcher.py \
+   python pipreline.py \
    --sources ./data/input_A.json \
    --targets ./data/master_B.csv \
    --semantic ./ontology/building_codes.ttl \
@@ -55,13 +56,14 @@ Include a semantic knowledge graph (.ttl) and adjust blocking thresholds:
    --k-sem 200 \
    --tau 0.75
 ```
-CLI Arguments
+CLI Arguments:
 
-Argument	Description	Default
---sources	List of source dataset files (CSV/JSON).	Required
---targets	List of target dataset files (CSV/JSON).	Required
---out	Output file path for the final JSON mapping.	None (stdout only)
---semantic	Optional .ttl files for semantic tagging.	[]
---tau	Confidence threshold (0.0 - 1.0) to accept a match.	0.6
---top-k-llm	Max candidates per source sent to the LLM.	30
---jaccard-threshold	Threshold for auto-detecting column neighbors.	0.4
+| Argument | Description |	Default |
+| --- | --- | ---  |
+| --sources |	List of source dataset files (CSV/JSON).	| Required |
+|--targets	| List of target dataset files (CSV/JSON).	| Required |
+| --out	| Output file path for the final JSON mapping.	| None (stdout only) | 
+| --semantic	| Optional .ttl files for semantic tagging.	| [] |
+| --tau	| Confidence threshold (0.0 - 1.0) to accept a match.	| 0.6 |
+| --top-k-llm	| Max candidates per source sent to the LLM.	| 30 |
+| --jaccard-threshold	| Threshold for auto-detecting column neighbors.	| 0.4 |
